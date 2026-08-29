@@ -1,7 +1,7 @@
 {
     "model_config": {
         "model_name": "Llama-3.2-3B-Instruct",
-        "model_path": "/cephfs/shared/sunyifan/Model/",
+        "model_path": " ",
         "tensor_parallel_size": 1,
         "gpu_memory_utilization": 0.9,
         "max_model_len": 4096,
@@ -9,7 +9,7 @@
     },
     "dataset_config": {
         "dataset_name": "GSM8k_test",
-        "dataset_path": "/cephfs/shared/sunyifan/Dataset/",
+        "dataset_path": " ",
         "shuffle": true,
         "sample_percentage": 1,
         "dataset_type": "math"
@@ -50,7 +50,7 @@
     },
     "experiment_config": {
         "random_seed": 42,
-        "root_dir": "/cephfs/shared/sunyifan/Min-p-CoT/",
+        "root_dir": " ",
         "output_dir": "outputs",
         "save_results": true,
         "log_level": "INFO",
