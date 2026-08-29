@@ -1,0 +1,63 @@
+{
+    "model_config": {
+        "model_name": "Llama-3.2-3B-Instruct",
+        "model_path": "/cephfs/shared/sunyifan/Model/",
+        "tensor_parallel_size": 1,
+        "gpu_memory_utilization": 0.9,
+        "max_model_len": 4096,
+        "trust_remote_code": true
+    },
+    "dataset_config": {
+        "dataset_name": "GSM8k_test",
+        "dataset_path": "/cephfs/shared/sunyifan/Dataset/",
+        "shuffle": true,
+        "sample_percentage": 1,
+        "dataset_type": "math"
+    },
+    "generation_config": {
+        "max_tokens": 256,
+        "temperature": 1,
+        "stop_sequences": ["\n\n"]
+    },
+    "cot_config": {
+        "cot_type": "4-step-CoT",
+        "example": "Question: In a conference room, 40 chairs with a capacity of 2 people each were arranged in rows in preparation for the board meeting of a company, whose number of members was the same as the chairs' capacity. If 2/5 of the chairs were not occupied, and the rest each had two people, calculate the number of board members who did attend the meeting.\n\nAnswer:Step 1:First, read the problem and identify what we need to find. We need to find the number of board members who attended the meeting.\n\nStep 2:Next, set up equations and perform the calculations. The total capacity of the chairs is 40 * 2 = 80 people. Since 2/5 of the chairs were not occupied, the number of occupied chairs is 40 - (2/5 * 40) = 40 - 16 = 24. Since each occupied chair had 2 people, the total number of people who attended the meeting is 24 * 2 = 48.\n\nStep 3:Then, double-check the work and verify the correctness of the answer. The total capacity of the chairs is 80, and 2/5 of the chairs were not occupied, which means 3/5 of the chairs were occupied. Since each occupied chair had 2 people, the total number of people who attended the meeting is 3/5 * 80 = 48. This answer makes sense because it is less than the total capacity of the chairs.\n\nStep 4:Finally, write the answer in \\boxed{} format. The final answer is: $\\boxed{48}$",
+        "step_minp_values": [1, 1, 1, 1],
+        "step_descriptions": [
+            "Problem Understanding - 较低min_p，更多探索",
+            "Reasoning Exploration - 中等min_p，平衡探索与聚焦",
+            "Solution Refinement - 较高min_p，更聚焦",
+            "Final Answer - 最高min_p，最聚焦"
+        ],
+        "step_guidance": [
+            "First, read the problem and identify what we need to find.",
+            "Next, set up equations and perform the calculations.",
+            "Then, double-check the work and verify the correctness of the answer.",
+            "Finally, write the answer in \\boxed{} format."
+        ],
+        "step_detection": {
+            "enabled": true,
+            "patterns": ["Step 2", "Step 3", "Step 4"],
+            "use_regex": true,
+            "regex_patterns": ["Step\\s*2", "Step\\s*3", "Step\\s*4"]
+        }
+    },
+    "voting_config": {
+        "enabled": true,
+        "num_paths": 10,
+        "voting_method": "majority",
+        "batch_generation": true
+    },
+    "experiment_config": {
+        "random_seed": 42,
+        "root_dir": "/cephfs/shared/sunyifan/Min-p-CoT/",
+        "output_dir": "outputs",
+        "save_results": true,
+        "log_level": "INFO",
+        "dataset_type": "math",
+        "batch_size": 2048
+    },
+    "prompt_templates": {
+        "guidance_prompt": "Here is an example of a problem and its solution:\n\nQuestion: In a conference room, 40 chairs with a capacity of 2 people each were arranged in rows in preparation for the board meeting of a company, whose number of members was the same as the chairs' capacity. If 2/5 of the chairs were not occupied, and the rest each had two people, calculate the number of board members who did attend the meeting.\n\nAnswer:Step 1:First, read the problem and identify what we need to find. We need to find the number of board members who attended the meeting.\n\nStep 2:Next, set up equations and perform the calculations. The total capacity of the chairs is 40 * 2 = 80 people. Since 2/5 of the chairs were not occupied, the number of occupied chairs is 40 - (2/5 * 40) = 40 - 16 = 24. Since each occupied chair had 2 people, the total number of people who attended the meeting is 24 * 2 = 48.\n\nStep 3:Then, double-check the work and verify the correctness of the answer. The total capacity of the chairs is 80, and 2/5 of the chairs were not occupied, which means 3/5 of the chairs were occupied. Since each occupied chair had 2 people, the total number of people who attended the meeting is 3/5 * 80 = 48. This answer makes sense because it is less than the total capacity of the chairs.\n\nStep 4:Finally, write the answer in \\boxed{} format. The final answer is: $\\boxed{48}$"
+    }
+} 

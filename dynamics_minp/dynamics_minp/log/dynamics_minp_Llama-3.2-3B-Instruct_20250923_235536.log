@@ -1,0 +1,20 @@
+2025-09-23 23:55:46 - INFO - 日志系统初始化完成，日志文件: /cephfs/shared/zsh/Min-p-CoT/dynamics_minp/log/dynamics_minp_Llama-3.2-3B-Instruct_20250923_235536.log
+2025-09-23 23:55:46 - INFO - === 配置信息 ===
+2025-09-23 23:55:46 - INFO - 实验名称: dynamics_minp_Llama-3.2-3B-Instruct_20250923_235536
+2025-09-23 23:55:46 - INFO - 配置文件: /cephfs/shared/zsh/Min-p-CoT/Min-p-CoT/dynamics_minp_config.json
+2025-09-23 23:55:46 - INFO - 模型配置: {'model_name': 'Llama-3.2-3B-Instruct', 'device_map': 'auto', 'torch_dtype': 'bfloat16'}
+2025-09-23 23:55:46 - INFO - 数据集配置: {'dataset_name': 'GSM8k', 'dataset_type': 'math', 'use_custom_prompts': True}
+2025-09-23 23:55:46 - INFO - 动态min_p配置: {'h_min': 0.0, 'h_max': 10.0, 'min_p_min': 0.05, 'min_p_max': 0.3, 'use_sliding_window': True, 'window_size': 50, 'percentile': 95, 'min_samples_for_update': 10, 'use_threshold_strategy': True, 'entropy_threshold': 5.0, 'adaptive_threshold_mode': 'percentile', 'threshold_percentile': 70, 'use_smooth_transition': True, 'transition_width': 1.0}
+2025-09-23 23:55:46 - INFO - 生成配置: {'max_new_tokens': 512, 'temperature': 1, 'do_sample': True, 'batch_size': 16, 'enable_batch_generation': True, 'cot_method': 'simple'}
+2025-09-23 23:55:46 - INFO - ==================================================
+2025-09-23 23:55:46 - INFO - 正在加载本地模型: /cephfs/shared/sunyifan/Model/Llama-3.2-3B-Instruct
+2025-09-23 23:55:46 - INFO - 正在加载tokenizer...
+2025-09-23 23:55:47 - INFO - ✓ Tokenizer加载成功
+2025-09-23 23:55:47 - INFO - ✓ 设置padding token为eos_token
+2025-09-23 23:55:47 - INFO - 正在加载模型...
+2025-09-23 23:55:51 - INFO - ✓ 模型加载完毕
+2025-09-23 23:55:51 - INFO - 模型设备: cuda:0
+2025-09-23 23:55:51 - INFO - 滑动窗口模式: 启用
+2025-09-23 23:55:51 - INFO - 窗口大小: 50, 百分位数: 95%, 最小更新样本数: 10
+2025-09-23 23:55:51 - INFO - 动态min_p策略: 高熵(>5.0)使用线性映射[0.05, 0.3], 低熵使用固定值0.2
+2025-09-23 23:55:51 - INFO - 正在加载数据集...

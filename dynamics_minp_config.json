@@ -1,0 +1,74 @@
+{
+  "model": {
+    "model_name": "Llama-3.2-3B-Instruct",
+    "device_map": "auto",
+    "torch_dtype": "bfloat16"
+  },
+  "dataset": {
+    "dataset_name": "GSM8k",
+    "dataset_type": "math",
+    "use_custom_prompts": true
+  },
+  "dynamic_minp": {
+    "h_min": 0.0,
+    "h_max": 8.5,
+    "min_p_min": 0,
+    "min_p_max": 1,
+    "use_sliding_window": true,
+    "window_size": 10,
+    "percentile": 95,
+    "initial_h_max": 8.5,
+    "min_samples_for_update": 5,
+    "entropy_threshold": null,
+    "fixed_low_minp": 0.2
+  },
+  "generation": {
+    "max_new_tokens": 512,
+    "temperature": 1,
+    "do_sample": true,
+    "batch_size": 16,
+    "enable_batch_generation": true,
+    "cot_method": "simple"
+  },
+  "cot_prompts": {
+    "simple": {
+      "math": "Let's think step by step and provide the final answer in \\boxed{{}} format.",
+      "qa": "Let's think step by step."
+    },
+    "4_stage": {
+      "math": {
+        "stage1": "Step 1: First, read the problem and identify what we need to find.",
+        "stage2": "\nStep 2: Next, set up equations and perform the calculations.",
+        "stage3": "\nStep 3: Then, double-check the work and verify the correctness of the answer.",
+        "stage4": "\nStep 4: Finally, write the answer in \\boxed{} format."
+      },
+      "qa": {
+        "stage1": "Step 1: First, read the problem and identify what we need to find.",
+        "stage2": "\nStep 2: Next, set up equations and perform the calculations.",
+        "stage3": "\nStep 3: Then, double-check the work and verify the correctness of the answer.",
+        "stage4": "\nStep 4: Finally, write the answer in \\boxed{} format."
+      }
+    }
+  },
+  "one_shot": true,
+  "one_shot_prompts": "Here is an example of a problem and its solution:\n\nQuestion: In a conference room, 40 chairs with a capacity of 2 people each were arranged in rows in preparation for the board meeting of a company, whose number of members was the same as the chairs' capacity. If 2/5 of the chairs were not occupied, and the rest each had two people, calculate the number of board members who did attend the meeting.\n\nAnswer:Step 1:First, read the problem and identify what we need to find. We need to find the number of board members who attended the meeting.\n\nStep 2:Next, set up equations and perform the calculations. The total capacity of the chairs is 40 * 2 = 80 people. Since 2/5 of the chairs were not occupied, the number of occupied chairs is 40 - (2/5 * 40) = 40 - 16 = 24. Since each occupied chair had 2 people, the total number of people who attended the meeting is 24 * 2 = 48.\n\nStep 3:Then, double-check the work and verify the correctness of the answer. The total capacity of the chairs is 80, and 2/5 of the chairs were not occupied, which means 3/5 of the chairs were occupied. Since each occupied chair had 2 people, the total number of people who attended the meeting is 3/5 * 80 = 48. This answer makes sense because it is less than the total capacity of the chairs.\n\nStep 4:Finally, write the answer in \\boxed{} format. The final answer is: $\\boxed{48}$",
+  "evaluation": {
+    "save_results": true,
+    "output_dir": "/cephfs/shared/sunyifan/Min-p-CoT/dynamics_minp",
+    "num_trials": 3,
+    "average_results": true
+  },
+  "voting": {
+    "enable_voting": true,
+    "num_votes": 10,
+    "voting_temperature": 1,
+    "voting_strategy": "majority",
+    "use_parallel_voting": true,
+    "confidence_threshold": 0,
+    "enable_greedy_fallback": true
+  },
+  "logging": {
+    "enable_detailed_logging": true,
+    "log_level": "INFO"
+  }
+}

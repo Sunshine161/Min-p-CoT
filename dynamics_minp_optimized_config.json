@@ -1,0 +1,87 @@
+{
+  "model": {
+    "model_name": "Llama-3.2-3B-Instruct",
+    "device_map": "auto",
+    "torch_dtype": "bfloat16"
+  },
+  "dataset": {
+    "dataset_name": "GSM8k",
+    "dataset_type": "math",
+    "use_custom_prompts": true
+  },
+  "dynamic_minp": {
+    "h_min": 0.0,
+    "h_max": 8.5,
+    "min_p_min": 0.05,
+    "min_p_max": 0.8,
+    "use_sliding_window": true,
+    "window_size": 20,
+    "percentile": 90,
+    "initial_h_max": 8.5,
+    "min_samples_for_update": 10,
+    "entropy_threshold": 4.0,
+    "fixed_low_minp": 0.05
+  },
+  "generation": {
+    "max_new_tokens": 768,
+    "temperature": 0.7,
+    "do_sample": true,
+    "top_p": 0.95,
+    "top_k": 50,
+    "repetition_penalty": 1.1,
+    "batch_size": 8,
+    "enable_batch_generation": true,
+    "cot_method": "4_stage"
+  },
+  "cot_prompts": {
+    "simple": {
+      "math": "Let's solve this step by step. \n1. Carefully read and understand the problem\n2. Identify all given values and what we need to find\n3. Set up the equations or formulas needed\n4. Perform calculations step by step, showing all work\n5. Double-check the calculations\n6. Provide the final answer in \\boxed{} format.",
+      "qa": "Let's think through this systematically."
+    },
+    "4_stage": {
+      "math": {
+        "stage1": "Step 1: Understanding the Problem\nLet me carefully read the problem and identify:\n- What information is given\n- What we need to find\n- Any constraints or special conditions",
+        "stage2": "\nStep 2: Planning the Solution\nNow I'll:\n- Determine the approach/formula to use\n- Set up the necessary equations\n- Identify the calculation steps needed",
+        "stage3": "\nStep 3: Executing the Calculations\nPerforming the calculations step by step:\n- Show all intermediate steps\n- Keep track of units\n- Be careful with arithmetic",
+        "stage4": "\nStep 4: Verification and Final Answer\n- Double-check the calculations\n- Verify the answer makes sense\n- Present the final answer in \\boxed{} format"
+      },
+      "qa": {
+        "stage1": "Step 1: Understanding the Question\nLet me analyze what is being asked.",
+        "stage2": "\nStep 2: Gathering Relevant Information\nIdentifying key facts and context.",
+        "stage3": "\nStep 3: Reasoning Through the Problem\nApplying logic to reach a conclusion.",
+        "stage4": "\nStep 4: Final Answer\nProviding a clear, well-supported answer."
+      }
+    }
+  },
+  "one_shot": true,
+  "one_shot_prompts": "Here is an example of solving a math problem step by step:\n\nQuestion: A bakery sold 93 regular cupcakes for $3 each and 45 premium cupcakes for $5 each. How much money did they make in total?\n\nAnswer: Let's solve this step by step.\n\nStep 1: Understanding the Problem\n- Regular cupcakes: 93 at $3 each\n- Premium cupcakes: 45 at $5 each\n- Need to find: Total money made\n\nStep 2: Planning the Solution\n- Calculate money from regular cupcakes: 93 × $3\n- Calculate money from premium cupcakes: 45 × $5\n- Add both amounts for total\n\nStep 3: Executing the Calculations\n- Regular cupcakes: 93 × $3 = $279\n- Premium cupcakes: 45 × $5 = $225\n- Total: $279 + $225 = $504\n\nStep 4: Verification and Final Answer\n- Check: 93 × 3 = 279 ✓\n- Check: 45 × 5 = 225 ✓\n- Check: 279 + 225 = 504 ✓\n- The answer makes sense for a bakery's daily sales.\n\nThe final answer is: $\\boxed{504}$\n\n---\n\nNow let's solve your problem:",
+  "evaluation": {
+    "save_results": true,
+    "output_dir": "./optimized_results",
+    "num_trials": 3,
+    "average_results": true
+  },
+  "voting": {
+    "enable_voting": true,
+    "num_votes": 15,
+    "voting_temperature": 0.8,
+    "voting_strategy": "weighted_majority",
+    "use_parallel_voting": true,
+    "confidence_threshold": 0.7,
+    "enable_greedy_fallback": true,
+    "min_agreement_ratio": 0.6
+  },
+  "advanced_strategies": {
+    "enable_self_consistency": true,
+    "enable_answer_verification": true,
+    "enable_calculation_check": true,
+    "max_retries_on_error": 2,
+    "use_ensemble_voting": true,
+    "ensemble_weights": [0.4, 0.3, 0.3]
+  },
+  "logging": {
+    "enable_detailed_logging": true,
+    "log_level": "INFO",
+    "save_error_analysis": true
+  }
+}

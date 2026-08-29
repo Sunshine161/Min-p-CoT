@@ -1,0 +1,384 @@
+2025-08-02 23:47:12,884 - ERROR - 实验 1 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0001.json
+2025-08-02 23:47:12,890 - INFO - 开始实验 2: min-p值 = [0.2, 0.2, 0.2, 0.9]
+2025-08-02 23:47:12,890 - ERROR - 实验 2 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0002.json
+2025-08-02 23:47:12,893 - INFO - 开始实验 3: min-p值 = [0.2, 0.2, 0.2, 1.0]
+2025-08-02 23:47:12,894 - ERROR - 实验 3 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0003.json
+2025-08-02 23:47:12,897 - INFO - 开始实验 4: min-p值 = [0.2, 0.2, 0.4, 0.8]
+2025-08-02 23:47:12,899 - ERROR - 实验 4 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0004.json
+2025-08-02 23:47:12,903 - INFO - 开始实验 5: min-p值 = [0.2, 0.2, 0.4, 0.9]
+2025-08-02 23:47:12,904 - ERROR - 实验 5 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0005.json
+2025-08-02 23:47:12,907 - INFO - 开始实验 6: min-p值 = [0.2, 0.2, 0.4, 1.0]
+2025-08-02 23:47:12,908 - ERROR - 实验 6 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0006.json
+2025-08-02 23:47:12,911 - INFO - 开始实验 7: min-p值 = [0.2, 0.2, 0.6, 0.8]
+2025-08-02 23:47:12,912 - ERROR - 实验 7 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0007.json
+2025-08-02 23:47:12,916 - INFO - 开始实验 8: min-p值 = [0.2, 0.2, 0.6, 0.9]
+2025-08-02 23:47:12,917 - ERROR - 实验 8 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0008.json
+2025-08-02 23:47:12,920 - INFO - 开始实验 9: min-p值 = [0.2, 0.2, 0.6, 1.0]
+2025-08-02 23:47:12,921 - ERROR - 实验 9 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0009.json
+2025-08-02 23:47:12,923 - INFO - 开始实验 10: min-p值 = [0.2, 0.2, 0.8, 0.8]
+2025-08-02 23:47:12,924 - ERROR - 实验 10 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0010.json
+2025-08-02 23:47:12,927 - INFO - 开始实验 11: min-p值 = [0.2, 0.2, 0.8, 0.9]
+2025-08-02 23:47:12,928 - ERROR - 实验 11 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0011.json
+2025-08-02 23:47:13,097 - INFO - 开始实验 12: min-p值 = [0.2, 0.2, 0.8, 1.0]
+2025-08-02 23:47:13,100 - ERROR - 实验 12 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0012.json
+2025-08-02 23:47:13,108 - INFO - 开始实验 13: min-p值 = [0.2, 0.4, 0.2, 0.8]
+2025-08-02 23:47:13,109 - ERROR - 实验 13 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0013.json
+2025-08-02 23:47:13,112 - INFO - 开始实验 14: min-p值 = [0.2, 0.4, 0.2, 0.9]
+2025-08-02 23:47:13,113 - ERROR - 实验 14 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0014.json
+2025-08-02 23:47:13,116 - INFO - 开始实验 15: min-p值 = [0.2, 0.4, 0.2, 1.0]
+2025-08-02 23:47:13,117 - ERROR - 实验 15 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0015.json
+2025-08-02 23:47:13,121 - INFO - 开始实验 16: min-p值 = [0.2, 0.4, 0.4, 0.8]
+2025-08-02 23:47:13,122 - ERROR - 实验 16 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0016.json
+2025-08-02 23:47:13,125 - INFO - 开始实验 17: min-p值 = [0.2, 0.4, 0.4, 0.9]
+2025-08-02 23:47:13,125 - ERROR - 实验 17 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0017.json
+2025-08-02 23:47:13,128 - INFO - 开始实验 18: min-p值 = [0.2, 0.4, 0.4, 1.0]
+2025-08-02 23:47:13,129 - ERROR - 实验 18 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0018.json
+2025-08-02 23:47:13,131 - INFO - 开始实验 19: min-p值 = [0.2, 0.4, 0.6, 0.8]
+2025-08-02 23:47:13,132 - ERROR - 实验 19 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0019.json
+2025-08-02 23:47:13,135 - INFO - 开始实验 20: min-p值 = [0.2, 0.4, 0.6, 0.9]
+2025-08-02 23:47:13,136 - ERROR - 实验 20 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0020.json
+2025-08-02 23:47:13,140 - INFO - 开始实验 21: min-p值 = [0.2, 0.4, 0.6, 1.0]
+2025-08-02 23:47:13,141 - ERROR - 实验 21 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0021.json
+2025-08-02 23:47:13,146 - INFO - 开始实验 22: min-p值 = [0.2, 0.4, 0.8, 0.8]
+2025-08-02 23:47:13,147 - ERROR - 实验 22 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0022.json
+2025-08-02 23:47:13,150 - INFO - 开始实验 23: min-p值 = [0.2, 0.4, 0.8, 0.9]
+2025-08-02 23:47:13,151 - ERROR - 实验 23 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0023.json
+2025-08-02 23:47:13,153 - INFO - 开始实验 24: min-p值 = [0.2, 0.4, 0.8, 1.0]
+2025-08-02 23:47:13,154 - ERROR - 实验 24 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0024.json
+2025-08-02 23:47:13,156 - INFO - 开始实验 25: min-p值 = [0.2, 0.6, 0.2, 0.8]
+2025-08-02 23:47:13,157 - ERROR - 实验 25 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0025.json
+2025-08-02 23:47:13,160 - INFO - 开始实验 26: min-p值 = [0.2, 0.6, 0.2, 0.9]
+2025-08-02 23:47:13,161 - ERROR - 实验 26 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0026.json
+2025-08-02 23:47:13,164 - INFO - 开始实验 27: min-p值 = [0.2, 0.6, 0.2, 1.0]
+2025-08-02 23:47:13,164 - ERROR - 实验 27 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0027.json
+2025-08-02 23:47:13,169 - INFO - 开始实验 28: min-p值 = [0.2, 0.6, 0.4, 0.8]
+2025-08-02 23:47:13,170 - ERROR - 实验 28 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0028.json
+2025-08-02 23:47:13,172 - INFO - 开始实验 29: min-p值 = [0.2, 0.6, 0.4, 0.9]
+2025-08-02 23:47:13,173 - ERROR - 实验 29 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0029.json
+2025-08-02 23:47:13,176 - INFO - 开始实验 30: min-p值 = [0.2, 0.6, 0.4, 1.0]
+2025-08-02 23:47:13,177 - ERROR - 实验 30 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0030.json
+2025-08-02 23:47:13,179 - INFO - 开始实验 31: min-p值 = [0.2, 0.6, 0.6, 0.8]
+2025-08-02 23:47:13,180 - ERROR - 实验 31 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0031.json
+2025-08-02 23:47:13,182 - INFO - 开始实验 32: min-p值 = [0.2, 0.6, 0.6, 0.9]
+2025-08-02 23:47:13,183 - ERROR - 实验 32 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0032.json
+2025-08-02 23:47:13,187 - INFO - 开始实验 33: min-p值 = [0.2, 0.6, 0.6, 1.0]
+2025-08-02 23:47:13,187 - ERROR - 实验 33 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0033.json
+2025-08-02 23:47:13,190 - INFO - 开始实验 34: min-p值 = [0.2, 0.6, 0.8, 0.8]
+2025-08-02 23:47:13,191 - ERROR - 实验 34 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0034.json
+2025-08-02 23:47:13,193 - INFO - 开始实验 35: min-p值 = [0.2, 0.6, 0.8, 0.9]
+2025-08-02 23:47:13,194 - ERROR - 实验 35 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0035.json
+2025-08-02 23:47:13,198 - INFO - 开始实验 36: min-p值 = [0.2, 0.6, 0.8, 1.0]
+2025-08-02 23:47:13,199 - ERROR - 实验 36 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0036.json
+2025-08-02 23:47:13,205 - INFO - 开始实验 37: min-p值 = [0.2, 0.8, 0.2, 0.8]
+2025-08-02 23:47:13,206 - ERROR - 实验 37 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0037.json
+2025-08-02 23:47:13,209 - INFO - 开始实验 38: min-p值 = [0.2, 0.8, 0.2, 0.9]
+2025-08-02 23:47:13,210 - ERROR - 实验 38 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0038.json
+2025-08-02 23:47:13,213 - INFO - 开始实验 39: min-p值 = [0.2, 0.8, 0.2, 1.0]
+2025-08-02 23:47:13,214 - ERROR - 实验 39 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0039.json
+2025-08-02 23:47:13,217 - INFO - 开始实验 40: min-p值 = [0.2, 0.8, 0.4, 0.8]
+2025-08-02 23:47:13,218 - ERROR - 实验 40 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0040.json
+2025-08-02 23:47:13,221 - INFO - 开始实验 41: min-p值 = [0.2, 0.8, 0.4, 0.9]
+2025-08-02 23:47:13,222 - ERROR - 实验 41 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0041.json
+2025-08-02 23:47:13,224 - INFO - 开始实验 42: min-p值 = [0.2, 0.8, 0.4, 1.0]
+2025-08-02 23:47:13,225 - ERROR - 实验 42 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0042.json
+2025-08-02 23:47:13,230 - INFO - 开始实验 43: min-p值 = [0.2, 0.8, 0.6, 0.8]
+2025-08-02 23:47:13,231 - ERROR - 实验 43 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0043.json
+2025-08-02 23:47:13,234 - INFO - 开始实验 44: min-p值 = [0.2, 0.8, 0.6, 0.9]
+2025-08-02 23:47:13,235 - ERROR - 实验 44 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0044.json
+2025-08-02 23:47:13,237 - INFO - 开始实验 45: min-p值 = [0.2, 0.8, 0.6, 1.0]
+2025-08-02 23:47:13,238 - ERROR - 实验 45 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0045.json
+2025-08-02 23:47:13,242 - INFO - 开始实验 46: min-p值 = [0.2, 0.8, 0.8, 0.8]
+2025-08-02 23:47:13,243 - ERROR - 实验 46 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0046.json
+2025-08-02 23:47:13,245 - INFO - 开始实验 47: min-p值 = [0.2, 0.8, 0.8, 0.9]
+2025-08-02 23:47:13,246 - ERROR - 实验 47 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0047.json
+2025-08-02 23:47:13,249 - INFO - 开始实验 48: min-p值 = [0.2, 0.8, 0.8, 1.0]
+2025-08-02 23:47:13,252 - ERROR - 实验 48 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0048.json
+2025-08-02 23:47:13,257 - INFO - 开始实验 49: min-p值 = [0.4, 0.2, 0.2, 0.8]
+2025-08-02 23:47:13,258 - ERROR - 实验 49 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0049.json
+2025-08-02 23:47:13,261 - INFO - 开始实验 50: min-p值 = [0.4, 0.2, 0.2, 0.9]
+2025-08-02 23:47:13,262 - ERROR - 实验 50 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0050.json
+2025-08-02 23:47:13,265 - INFO - 开始实验 51: min-p值 = [0.4, 0.2, 0.2, 1.0]
+2025-08-02 23:47:13,266 - ERROR - 实验 51 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0051.json
+2025-08-02 23:47:13,269 - INFO - 开始实验 52: min-p值 = [0.4, 0.2, 0.4, 0.8]
+2025-08-02 23:47:13,270 - ERROR - 实验 52 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0052.json
+2025-08-02 23:47:13,273 - INFO - 开始实验 53: min-p值 = [0.4, 0.2, 0.4, 0.9]
+2025-08-02 23:47:13,274 - ERROR - 实验 53 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0053.json
+2025-08-02 23:47:13,277 - INFO - 开始实验 54: min-p值 = [0.4, 0.2, 0.4, 1.0]
+2025-08-02 23:47:13,277 - ERROR - 实验 54 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0054.json
+2025-08-02 23:47:13,285 - INFO - 开始实验 55: min-p值 = [0.4, 0.2, 0.6, 0.8]
+2025-08-02 23:47:13,286 - ERROR - 实验 55 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0055.json
+2025-08-02 23:47:13,290 - INFO - 开始实验 56: min-p值 = [0.4, 0.2, 0.6, 0.9]
+2025-08-02 23:47:13,291 - ERROR - 实验 56 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0056.json
+2025-08-02 23:47:13,294 - INFO - 开始实验 57: min-p值 = [0.4, 0.2, 0.6, 1.0]
+2025-08-02 23:47:13,295 - ERROR - 实验 57 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0057.json
+2025-08-02 23:47:13,297 - INFO - 开始实验 58: min-p值 = [0.4, 0.2, 0.8, 0.8]
+2025-08-02 23:47:13,298 - ERROR - 实验 58 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0058.json
+2025-08-02 23:47:13,301 - INFO - 开始实验 59: min-p值 = [0.4, 0.2, 0.8, 0.9]
+2025-08-02 23:47:13,303 - ERROR - 实验 59 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0059.json
+2025-08-02 23:47:13,306 - INFO - 开始实验 60: min-p值 = [0.4, 0.2, 0.8, 1.0]
+2025-08-02 23:47:13,307 - ERROR - 实验 60 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0060.json
+2025-08-02 23:47:13,310 - INFO - 开始实验 61: min-p值 = [0.4, 0.4, 0.2, 0.8]
+2025-08-02 23:47:13,311 - ERROR - 实验 61 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0061.json
+2025-08-02 23:47:13,313 - INFO - 开始实验 62: min-p值 = [0.4, 0.4, 0.2, 0.9]
+2025-08-02 23:47:13,314 - ERROR - 实验 62 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0062.json
+2025-08-02 23:47:13,317 - INFO - 开始实验 63: min-p值 = [0.4, 0.4, 0.2, 1.0]
+2025-08-02 23:47:13,318 - ERROR - 实验 63 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0063.json
+2025-08-02 23:47:13,321 - INFO - 开始实验 64: min-p值 = [0.4, 0.4, 0.4, 0.8]
+2025-08-02 23:47:13,322 - ERROR - 实验 64 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0064.json
+2025-08-02 23:47:13,325 - INFO - 开始实验 65: min-p值 = [0.4, 0.4, 0.4, 0.9]
+2025-08-02 23:47:13,325 - ERROR - 实验 65 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0065.json
+2025-08-02 23:47:13,328 - INFO - 开始实验 66: min-p值 = [0.4, 0.4, 0.4, 1.0]
+2025-08-02 23:47:13,329 - ERROR - 实验 66 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0066.json
+2025-08-02 23:47:13,331 - INFO - 开始实验 67: min-p值 = [0.4, 0.4, 0.6, 0.8]
+2025-08-02 23:47:13,332 - ERROR - 实验 67 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0067.json
+2025-08-02 23:47:13,335 - INFO - 开始实验 68: min-p值 = [0.4, 0.4, 0.6, 0.9]
+2025-08-02 23:47:13,337 - ERROR - 实验 68 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0068.json
+2025-08-02 23:47:13,340 - INFO - 开始实验 69: min-p值 = [0.4, 0.4, 0.6, 1.0]
+2025-08-02 23:47:13,341 - ERROR - 实验 69 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0069.json
+2025-08-02 23:47:13,343 - INFO - 开始实验 70: min-p值 = [0.4, 0.4, 0.8, 0.8]
+2025-08-02 23:47:13,344 - ERROR - 实验 70 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0070.json
+2025-08-02 23:47:13,347 - INFO - 开始实验 71: min-p值 = [0.4, 0.4, 0.8, 0.9]
+2025-08-02 23:47:13,348 - ERROR - 实验 71 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0071.json
+2025-08-02 23:47:13,351 - INFO - 开始实验 72: min-p值 = [0.4, 0.4, 0.8, 1.0]
+2025-08-02 23:47:13,352 - ERROR - 实验 72 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0072.json
+2025-08-02 23:47:13,363 - INFO - 开始实验 73: min-p值 = [0.4, 0.6, 0.2, 0.8]
+2025-08-02 23:47:13,365 - ERROR - 实验 73 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0073.json
+2025-08-02 23:47:13,367 - INFO - 开始实验 74: min-p值 = [0.4, 0.6, 0.2, 0.9]
+2025-08-02 23:47:13,369 - ERROR - 实验 74 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0074.json
+2025-08-02 23:47:13,372 - INFO - 开始实验 75: min-p值 = [0.4, 0.6, 0.2, 1.0]
+2025-08-02 23:47:13,373 - ERROR - 实验 75 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0075.json
+2025-08-02 23:47:13,375 - INFO - 开始实验 76: min-p值 = [0.4, 0.6, 0.4, 0.8]
+2025-08-02 23:47:13,376 - ERROR - 实验 76 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0076.json
+2025-08-02 23:47:13,378 - INFO - 开始实验 77: min-p值 = [0.4, 0.6, 0.4, 0.9]
+2025-08-02 23:47:13,379 - ERROR - 实验 77 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0077.json
+2025-08-02 23:47:13,382 - INFO - 开始实验 78: min-p值 = [0.4, 0.6, 0.4, 1.0]
+2025-08-02 23:47:13,383 - ERROR - 实验 78 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0078.json
+2025-08-02 23:47:13,385 - INFO - 开始实验 79: min-p值 = [0.4, 0.6, 0.6, 0.8]
+2025-08-02 23:47:13,391 - ERROR - 实验 79 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0079.json
+2025-08-02 23:47:13,394 - INFO - 开始实验 80: min-p值 = [0.4, 0.6, 0.6, 0.9]
+2025-08-02 23:47:13,395 - ERROR - 实验 80 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0080.json
+2025-08-02 23:47:13,397 - INFO - 开始实验 81: min-p值 = [0.4, 0.6, 0.6, 1.0]
+2025-08-02 23:47:13,398 - ERROR - 实验 81 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0081.json
+2025-08-02 23:47:13,401 - INFO - 开始实验 82: min-p值 = [0.4, 0.6, 0.8, 0.8]
+2025-08-02 23:47:13,402 - ERROR - 实验 82 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0082.json
+2025-08-02 23:47:13,405 - INFO - 开始实验 83: min-p值 = [0.4, 0.6, 0.8, 0.9]
+2025-08-02 23:47:13,406 - ERROR - 实验 83 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0083.json
+2025-08-02 23:47:13,408 - INFO - 开始实验 84: min-p值 = [0.4, 0.6, 0.8, 1.0]
+2025-08-02 23:47:13,409 - ERROR - 实验 84 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0084.json
+2025-08-02 23:47:13,412 - INFO - 开始实验 85: min-p值 = [0.4, 0.8, 0.2, 0.8]
+2025-08-02 23:47:13,413 - ERROR - 实验 85 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0085.json
+2025-08-02 23:47:13,417 - INFO - 开始实验 86: min-p值 = [0.4, 0.8, 0.2, 0.9]
+2025-08-02 23:47:13,418 - ERROR - 实验 86 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0086.json
+2025-08-02 23:47:13,424 - INFO - 开始实验 87: min-p值 = [0.4, 0.8, 0.2, 1.0]
+2025-08-02 23:47:13,425 - ERROR - 实验 87 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0087.json
+2025-08-02 23:47:13,428 - INFO - 开始实验 88: min-p值 = [0.4, 0.8, 0.4, 0.8]
+2025-08-02 23:47:13,429 - ERROR - 实验 88 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0088.json
+2025-08-02 23:47:13,432 - INFO - 开始实验 89: min-p值 = [0.4, 0.8, 0.4, 0.9]
+2025-08-02 23:47:13,433 - ERROR - 实验 89 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0089.json
+2025-08-02 23:47:13,436 - INFO - 开始实验 90: min-p值 = [0.4, 0.8, 0.4, 1.0]
+2025-08-02 23:47:13,437 - ERROR - 实验 90 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0090.json
+2025-08-02 23:47:13,442 - INFO - 开始实验 91: min-p值 = [0.4, 0.8, 0.6, 0.8]
+2025-08-02 23:47:13,443 - ERROR - 实验 91 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0091.json
+2025-08-02 23:47:13,446 - INFO - 开始实验 92: min-p值 = [0.4, 0.8, 0.6, 0.9]
+2025-08-02 23:47:13,447 - ERROR - 实验 92 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0092.json
+2025-08-02 23:47:13,450 - INFO - 开始实验 93: min-p值 = [0.4, 0.8, 0.6, 1.0]
+2025-08-02 23:47:13,450 - ERROR - 实验 93 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0093.json
+2025-08-02 23:47:13,453 - INFO - 开始实验 94: min-p值 = [0.4, 0.8, 0.8, 0.8]
+2025-08-02 23:47:13,454 - ERROR - 实验 94 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0094.json
+2025-08-02 23:47:13,457 - INFO - 开始实验 95: min-p值 = [0.4, 0.8, 0.8, 0.9]
+2025-08-02 23:47:13,458 - ERROR - 实验 95 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0095.json
+2025-08-02 23:47:13,461 - INFO - 开始实验 96: min-p值 = [0.4, 0.8, 0.8, 1.0]
+2025-08-02 23:47:13,462 - ERROR - 实验 96 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0096.json
+2025-08-02 23:47:13,466 - INFO - 开始实验 97: min-p值 = [0.6, 0.2, 0.2, 0.8]
+2025-08-02 23:47:13,467 - ERROR - 实验 97 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0097.json
+2025-08-02 23:47:13,470 - INFO - 开始实验 98: min-p值 = [0.6, 0.2, 0.2, 0.9]
+2025-08-02 23:47:13,471 - ERROR - 实验 98 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0098.json
+2025-08-02 23:47:13,474 - INFO - 开始实验 99: min-p值 = [0.6, 0.2, 0.2, 1.0]
+2025-08-02 23:47:13,475 - ERROR - 实验 99 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0099.json
+2025-08-02 23:47:13,480 - INFO - 开始实验 100: min-p值 = [0.6, 0.2, 0.4, 0.8]
+2025-08-02 23:47:13,481 - ERROR - 实验 100 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0100.json
+2025-08-02 23:47:13,486 - INFO - 开始实验 101: min-p值 = [0.6, 0.2, 0.4, 0.9]
+2025-08-02 23:47:13,487 - ERROR - 实验 101 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0101.json
+2025-08-02 23:47:13,490 - INFO - 开始实验 102: min-p值 = [0.6, 0.2, 0.4, 1.0]
+2025-08-02 23:47:13,491 - ERROR - 实验 102 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0102.json
+2025-08-02 23:47:13,494 - INFO - 开始实验 103: min-p值 = [0.6, 0.2, 0.6, 0.8]
+2025-08-02 23:47:13,495 - ERROR - 实验 103 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0103.json
+2025-08-02 23:47:13,500 - INFO - 开始实验 104: min-p值 = [0.6, 0.2, 0.6, 0.9]
+2025-08-02 23:47:13,501 - ERROR - 实验 104 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0104.json
+2025-08-02 23:47:13,506 - INFO - 开始实验 105: min-p值 = [0.6, 0.2, 0.6, 1.0]
+2025-08-02 23:47:13,508 - ERROR - 实验 105 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0105.json
+2025-08-02 23:47:13,579 - INFO - 开始实验 106: min-p值 = [0.6, 0.2, 0.8, 0.8]
+2025-08-02 23:47:13,580 - ERROR - 实验 106 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0106.json
+2025-08-02 23:47:13,584 - INFO - 开始实验 107: min-p值 = [0.6, 0.2, 0.8, 0.9]
+2025-08-02 23:47:13,585 - ERROR - 实验 107 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0107.json
+2025-08-02 23:47:13,588 - INFO - 开始实验 108: min-p值 = [0.6, 0.2, 0.8, 1.0]
+2025-08-02 23:47:13,589 - ERROR - 实验 108 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0108.json
+2025-08-02 23:47:13,591 - INFO - 开始实验 109: min-p值 = [0.6, 0.4, 0.2, 0.8]
+2025-08-02 23:47:13,592 - ERROR - 实验 109 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0109.json
+2025-08-02 23:47:13,596 - INFO - 开始实验 110: min-p值 = [0.6, 0.4, 0.2, 0.9]
+2025-08-02 23:47:13,597 - ERROR - 实验 110 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0110.json
+2025-08-02 23:47:13,601 - INFO - 开始实验 111: min-p值 = [0.6, 0.4, 0.2, 1.0]
+2025-08-02 23:47:13,602 - ERROR - 实验 111 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0111.json
+2025-08-02 23:47:13,605 - INFO - 开始实验 112: min-p值 = [0.6, 0.4, 0.4, 0.8]
+2025-08-02 23:47:13,606 - ERROR - 实验 112 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0112.json
+2025-08-02 23:47:13,609 - INFO - 开始实验 113: min-p值 = [0.6, 0.4, 0.4, 0.9]
+2025-08-02 23:47:13,610 - ERROR - 实验 113 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0113.json
+2025-08-02 23:47:13,613 - INFO - 开始实验 114: min-p值 = [0.6, 0.4, 0.4, 1.0]
+2025-08-02 23:47:13,614 - ERROR - 实验 114 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0114.json
+2025-08-02 23:47:13,620 - INFO - 开始实验 115: min-p值 = [0.6, 0.4, 0.6, 0.8]
+2025-08-02 23:47:13,621 - ERROR - 实验 115 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0115.json
+2025-08-02 23:47:13,624 - INFO - 开始实验 116: min-p值 = [0.6, 0.4, 0.6, 0.9]
+2025-08-02 23:47:13,624 - ERROR - 实验 116 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0116.json
+2025-08-02 23:47:13,627 - INFO - 开始实验 117: min-p值 = [0.6, 0.4, 0.6, 1.0]
+2025-08-02 23:47:13,628 - ERROR - 实验 117 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0117.json
+2025-08-02 23:47:13,636 - INFO - 开始实验 118: min-p值 = [0.6, 0.4, 0.8, 0.8]
+2025-08-02 23:47:13,640 - ERROR - 实验 118 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0118.json
+2025-08-02 23:47:13,643 - INFO - 开始实验 119: min-p值 = [0.6, 0.4, 0.8, 0.9]
+2025-08-02 23:47:13,644 - ERROR - 实验 119 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0119.json
+2025-08-02 23:47:13,649 - INFO - 开始实验 120: min-p值 = [0.6, 0.4, 0.8, 1.0]
+2025-08-02 23:47:13,650 - ERROR - 实验 120 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0120.json
+2025-08-02 23:47:13,653 - INFO - 开始实验 121: min-p值 = [0.6, 0.6, 0.2, 0.8]
+2025-08-02 23:47:13,654 - ERROR - 实验 121 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0121.json
+2025-08-02 23:47:13,657 - INFO - 开始实验 122: min-p值 = [0.6, 0.6, 0.2, 0.9]
+2025-08-02 23:47:13,658 - ERROR - 实验 122 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0122.json
+2025-08-02 23:47:13,663 - INFO - 开始实验 123: min-p值 = [0.6, 0.6, 0.2, 1.0]
+2025-08-02 23:47:13,663 - ERROR - 实验 123 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0123.json
+2025-08-02 23:47:13,668 - INFO - 开始实验 124: min-p值 = [0.6, 0.6, 0.4, 0.8]
+2025-08-02 23:47:13,668 - ERROR - 实验 124 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0124.json
+2025-08-02 23:47:13,672 - INFO - 开始实验 125: min-p值 = [0.6, 0.6, 0.4, 0.9]
+2025-08-02 23:47:13,672 - ERROR - 实验 125 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0125.json
+2025-08-02 23:47:13,676 - INFO - 开始实验 126: min-p值 = [0.6, 0.6, 0.4, 1.0]
+2025-08-02 23:47:13,677 - ERROR - 实验 126 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0126.json
+2025-08-02 23:47:13,680 - INFO - 开始实验 127: min-p值 = [0.6, 0.6, 0.6, 0.8]
+2025-08-02 23:47:13,681 - ERROR - 实验 127 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0127.json
+2025-08-02 23:47:13,684 - INFO - 开始实验 128: min-p值 = [0.6, 0.6, 0.6, 0.9]
+2025-08-02 23:47:13,685 - ERROR - 实验 128 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0128.json
+2025-08-02 23:47:13,688 - INFO - 开始实验 129: min-p值 = [0.6, 0.6, 0.6, 1.0]
+2025-08-02 23:47:13,689 - ERROR - 实验 129 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0129.json
+2025-08-02 23:47:13,692 - INFO - 开始实验 130: min-p值 = [0.6, 0.6, 0.8, 0.8]
+2025-08-02 23:47:13,693 - ERROR - 实验 130 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0130.json
+2025-08-02 23:47:13,696 - INFO - 开始实验 131: min-p值 = [0.6, 0.6, 0.8, 0.9]
+2025-08-02 23:47:13,697 - ERROR - 实验 131 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0131.json
+2025-08-02 23:47:13,700 - INFO - 开始实验 132: min-p值 = [0.6, 0.6, 0.8, 1.0]
+2025-08-02 23:47:13,701 - ERROR - 实验 132 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0132.json
+2025-08-02 23:47:13,704 - INFO - 开始实验 133: min-p值 = [0.6, 0.8, 0.2, 0.8]
+2025-08-02 23:47:13,705 - ERROR - 实验 133 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0133.json
+2025-08-02 23:47:13,708 - INFO - 开始实验 134: min-p值 = [0.6, 0.8, 0.2, 0.9]
+2025-08-02 23:47:13,709 - ERROR - 实验 134 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0134.json
+2025-08-02 23:47:13,716 - INFO - 开始实验 135: min-p值 = [0.6, 0.8, 0.2, 1.0]
+2025-08-02 23:47:13,717 - ERROR - 实验 135 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0135.json
+2025-08-02 23:47:13,721 - INFO - 开始实验 136: min-p值 = [0.6, 0.8, 0.4, 0.8]
+2025-08-02 23:47:13,721 - ERROR - 实验 136 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0136.json
+2025-08-02 23:47:13,725 - INFO - 开始实验 137: min-p值 = [0.6, 0.8, 0.4, 0.9]
+2025-08-02 23:47:13,726 - ERROR - 实验 137 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0137.json
+2025-08-02 23:47:13,729 - INFO - 开始实验 138: min-p值 = [0.6, 0.8, 0.4, 1.0]
+2025-08-02 23:47:13,730 - ERROR - 实验 138 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0138.json
+2025-08-02 23:47:13,733 - INFO - 开始实验 139: min-p值 = [0.6, 0.8, 0.6, 0.8]
+2025-08-02 23:47:13,734 - ERROR - 实验 139 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0139.json
+2025-08-02 23:47:13,740 - INFO - 开始实验 140: min-p值 = [0.6, 0.8, 0.6, 0.9]
+2025-08-02 23:47:13,741 - ERROR - 实验 140 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0140.json
+2025-08-02 23:47:13,744 - INFO - 开始实验 141: min-p值 = [0.6, 0.8, 0.6, 1.0]
+2025-08-02 23:47:13,745 - ERROR - 实验 141 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0141.json
+2025-08-02 23:47:13,749 - INFO - 开始实验 142: min-p值 = [0.6, 0.8, 0.8, 0.8]
+2025-08-02 23:47:13,750 - ERROR - 实验 142 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0142.json
+2025-08-02 23:47:13,753 - INFO - 开始实验 143: min-p值 = [0.6, 0.8, 0.8, 0.9]
+2025-08-02 23:47:13,756 - ERROR - 实验 143 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0143.json
+2025-08-02 23:47:13,759 - INFO - 开始实验 144: min-p值 = [0.6, 0.8, 0.8, 1.0]
+2025-08-02 23:47:13,760 - ERROR - 实验 144 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0144.json
+2025-08-02 23:47:13,764 - INFO - 开始实验 145: min-p值 = [0.8, 0.2, 0.2, 0.8]
+2025-08-02 23:47:13,767 - ERROR - 实验 145 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0145.json
+2025-08-02 23:47:13,774 - INFO - 开始实验 146: min-p值 = [0.8, 0.2, 0.2, 0.9]
+2025-08-02 23:47:13,775 - ERROR - 实验 146 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0146.json
+2025-08-02 23:47:13,778 - INFO - 开始实验 147: min-p值 = [0.8, 0.2, 0.2, 1.0]
+2025-08-02 23:47:13,779 - ERROR - 实验 147 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0147.json
+2025-08-02 23:47:13,783 - INFO - 开始实验 148: min-p值 = [0.8, 0.2, 0.4, 0.8]
+2025-08-02 23:47:13,783 - ERROR - 实验 148 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0148.json
+2025-08-02 23:47:13,787 - INFO - 开始实验 149: min-p值 = [0.8, 0.2, 0.4, 0.9]
+2025-08-02 23:47:13,788 - ERROR - 实验 149 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0149.json
+2025-08-02 23:47:13,791 - INFO - 开始实验 150: min-p值 = [0.8, 0.2, 0.4, 1.0]
+2025-08-02 23:47:13,792 - ERROR - 实验 150 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0150.json
+2025-08-02 23:47:13,795 - INFO - 开始实验 151: min-p值 = [0.8, 0.2, 0.6, 0.8]
+2025-08-02 23:47:13,797 - ERROR - 实验 151 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0151.json
+2025-08-02 23:47:13,800 - INFO - 开始实验 152: min-p值 = [0.8, 0.2, 0.6, 0.9]
+2025-08-02 23:47:13,801 - ERROR - 实验 152 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0152.json
+2025-08-02 23:47:13,805 - INFO - 开始实验 153: min-p值 = [0.8, 0.2, 0.6, 1.0]
+2025-08-02 23:47:13,806 - ERROR - 实验 153 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0153.json
+2025-08-02 23:47:13,810 - INFO - 开始实验 154: min-p值 = [0.8, 0.2, 0.8, 0.8]
+2025-08-02 23:47:13,816 - ERROR - 实验 154 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0154.json
+2025-08-02 23:47:13,820 - INFO - 开始实验 155: min-p值 = [0.8, 0.2, 0.8, 0.9]
+2025-08-02 23:47:13,821 - ERROR - 实验 155 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0155.json
+2025-08-02 23:47:13,826 - INFO - 开始实验 156: min-p值 = [0.8, 0.2, 0.8, 1.0]
+2025-08-02 23:47:13,826 - ERROR - 实验 156 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0156.json
+2025-08-02 23:47:13,829 - INFO - 开始实验 157: min-p值 = [0.8, 0.4, 0.2, 0.8]
+2025-08-02 23:47:13,830 - ERROR - 实验 157 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0157.json
+2025-08-02 23:47:13,834 - INFO - 开始实验 158: min-p值 = [0.8, 0.4, 0.2, 0.9]
+2025-08-02 23:47:13,835 - ERROR - 实验 158 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0158.json
+2025-08-02 23:47:13,839 - INFO - 开始实验 159: min-p值 = [0.8, 0.4, 0.2, 1.0]
+2025-08-02 23:47:13,840 - ERROR - 实验 159 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0159.json
+2025-08-02 23:47:13,844 - INFO - 开始实验 160: min-p值 = [0.8, 0.4, 0.4, 0.8]
+2025-08-02 23:47:13,844 - ERROR - 实验 160 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0160.json
+2025-08-02 23:47:13,850 - INFO - 开始实验 161: min-p值 = [0.8, 0.4, 0.4, 0.9]
+2025-08-02 23:47:13,850 - ERROR - 实验 161 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0161.json
+2025-08-02 23:47:13,854 - INFO - 开始实验 162: min-p值 = [0.8, 0.4, 0.4, 1.0]
+2025-08-02 23:47:13,855 - ERROR - 实验 162 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0162.json
+2025-08-02 23:47:13,859 - INFO - 开始实验 163: min-p值 = [0.8, 0.4, 0.6, 0.8]
+2025-08-02 23:47:13,864 - ERROR - 实验 163 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0163.json
+2025-08-02 23:47:13,868 - INFO - 开始实验 164: min-p值 = [0.8, 0.4, 0.6, 0.9]
+2025-08-02 23:47:13,869 - ERROR - 实验 164 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0164.json
+2025-08-02 23:47:13,873 - INFO - 开始实验 165: min-p值 = [0.8, 0.4, 0.6, 1.0]
+2025-08-02 23:47:13,875 - ERROR - 实验 165 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0165.json
+2025-08-02 23:47:13,879 - INFO - 开始实验 166: min-p值 = [0.8, 0.4, 0.8, 0.8]
+2025-08-02 23:47:13,880 - ERROR - 实验 166 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0166.json
+2025-08-02 23:47:13,884 - INFO - 开始实验 167: min-p值 = [0.8, 0.4, 0.8, 0.9]
+2025-08-02 23:47:13,885 - ERROR - 实验 167 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0167.json
+2025-08-02 23:47:13,889 - INFO - 开始实验 168: min-p值 = [0.8, 0.4, 0.8, 1.0]
+2025-08-02 23:47:13,889 - ERROR - 实验 168 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0168.json
+2025-08-02 23:47:13,893 - INFO - 开始实验 169: min-p值 = [0.8, 0.6, 0.2, 0.8]
+2025-08-02 23:47:13,894 - ERROR - 实验 169 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0169.json
+2025-08-02 23:47:13,898 - INFO - 开始实验 170: min-p值 = [0.8, 0.6, 0.2, 0.9]
+2025-08-02 23:47:13,899 - ERROR - 实验 170 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0170.json
+2025-08-02 23:47:13,903 - INFO - 开始实验 171: min-p值 = [0.8, 0.6, 0.2, 1.0]
+2025-08-02 23:47:13,904 - ERROR - 实验 171 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0171.json
+2025-08-02 23:47:13,908 - INFO - 开始实验 172: min-p值 = [0.8, 0.6, 0.4, 0.8]
+2025-08-02 23:47:13,909 - ERROR - 实验 172 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0172.json
+2025-08-02 23:47:13,913 - INFO - 开始实验 173: min-p值 = [0.8, 0.6, 0.4, 0.9]
+2025-08-02 23:47:13,914 - ERROR - 实验 173 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0173.json
+2025-08-02 23:47:13,918 - INFO - 开始实验 174: min-p值 = [0.8, 0.6, 0.4, 1.0]
+2025-08-02 23:47:13,918 - ERROR - 实验 174 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0174.json
+2025-08-02 23:47:13,924 - INFO - 开始实验 175: min-p值 = [0.8, 0.6, 0.6, 0.8]
+2025-08-02 23:47:13,925 - ERROR - 实验 175 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0175.json
+2025-08-02 23:47:13,931 - INFO - 开始实验 176: min-p值 = [0.8, 0.6, 0.6, 0.9]
+2025-08-02 23:47:13,932 - ERROR - 实验 176 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0176.json
+2025-08-02 23:47:13,935 - INFO - 开始实验 177: min-p值 = [0.8, 0.6, 0.6, 1.0]
+2025-08-02 23:47:13,936 - ERROR - 实验 177 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0177.json
+2025-08-02 23:47:13,940 - INFO - 开始实验 178: min-p值 = [0.8, 0.6, 0.8, 0.8]
+2025-08-02 23:47:13,941 - ERROR - 实验 178 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0178.json
+2025-08-02 23:47:13,948 - INFO - 开始实验 179: min-p值 = [0.8, 0.6, 0.8, 0.9]
+2025-08-02 23:47:13,949 - ERROR - 实验 179 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0179.json
+2025-08-02 23:47:13,953 - INFO - 开始实验 180: min-p值 = [0.8, 0.6, 0.8, 1.0]
+2025-08-02 23:47:13,953 - ERROR - 实验 180 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0180.json
+2025-08-02 23:47:13,957 - INFO - 开始实验 181: min-p值 = [0.8, 0.8, 0.2, 0.8]
+2025-08-02 23:47:13,958 - ERROR - 实验 181 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0181.json
+2025-08-02 23:47:13,962 - INFO - 开始实验 182: min-p值 = [0.8, 0.8, 0.2, 0.9]
+2025-08-02 23:47:13,963 - ERROR - 实验 182 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0182.json
+2025-08-02 23:47:13,968 - INFO - 开始实验 183: min-p值 = [0.8, 0.8, 0.2, 1.0]
+2025-08-02 23:47:13,969 - ERROR - 实验 183 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0183.json
+2025-08-02 23:47:13,973 - INFO - 开始实验 184: min-p值 = [0.8, 0.8, 0.4, 0.8]
+2025-08-02 23:47:13,973 - ERROR - 实验 184 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0184.json
+2025-08-02 23:47:13,977 - INFO - 开始实验 185: min-p值 = [0.8, 0.8, 0.4, 0.9]
+2025-08-02 23:47:13,978 - ERROR - 实验 185 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0185.json
+2025-08-02 23:47:13,982 - INFO - 开始实验 186: min-p值 = [0.8, 0.8, 0.4, 1.0]
+2025-08-02 23:47:13,983 - ERROR - 实验 186 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0186.json
+2025-08-02 23:47:13,988 - INFO - 开始实验 187: min-p值 = [0.8, 0.8, 0.6, 0.8]
+2025-08-02 23:47:13,989 - ERROR - 实验 187 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0187.json
+2025-08-02 23:47:14,001 - INFO - 开始实验 188: min-p值 = [0.8, 0.8, 0.6, 0.9]
+2025-08-02 23:47:14,003 - ERROR - 实验 188 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0188.json
+2025-08-02 23:47:14,008 - INFO - 开始实验 189: min-p值 = [0.8, 0.8, 0.6, 1.0]
+2025-08-02 23:47:14,009 - ERROR - 实验 189 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0189.json
+2025-08-02 23:47:14,013 - INFO - 开始实验 190: min-p值 = [0.8, 0.8, 0.8, 0.8]
+2025-08-02 23:47:14,014 - ERROR - 实验 190 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0190.json
+2025-08-02 23:47:14,018 - INFO - 开始实验 191: min-p值 = [0.8, 0.8, 0.8, 0.9]
+2025-08-02 23:47:14,019 - ERROR - 实验 191 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0191.json
+2025-08-02 23:47:14,025 - INFO - 开始实验 192: min-p值 = [0.8, 0.8, 0.8, 1.0]
+2025-08-02 23:47:14,026 - ERROR - 实验 192 失败: 配置文件未找到: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0192.json
+2025-08-02 23:47:14,030 - ERROR - 没有成功的实验

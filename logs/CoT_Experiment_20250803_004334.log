@@ -1,0 +1,1031 @@
+2025-08-03 00:43:34,194 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.4_0.6_1.0.json
+2025-08-03 00:43:34,195 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,195 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,195 - ERROR - 实验 21 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,195 - INFO - 开始实验 22: min-p值 = [0.2, 0.4, 0.8, 0.8]
+2025-08-03 00:43:34,195 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.4_0.8_0.8.json
+2025-08-03 00:43:34,196 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.4_0.8_0.8.json
+2025-08-03 00:43:34,196 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,197 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,197 - ERROR - 实验 22 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,197 - INFO - 开始实验 23: min-p值 = [0.2, 0.4, 0.8, 0.9]
+2025-08-03 00:43:34,197 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.4_0.8_0.9.json
+2025-08-03 00:43:34,198 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.4_0.8_0.9.json
+2025-08-03 00:43:34,198 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,198 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,198 - ERROR - 实验 23 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,198 - INFO - 开始实验 24: min-p值 = [0.2, 0.4, 0.8, 1.0]
+2025-08-03 00:43:34,199 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.4_0.8_1.0.json
+2025-08-03 00:43:34,200 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.4_0.8_1.0.json
+2025-08-03 00:43:34,200 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,200 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,200 - ERROR - 实验 24 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,200 - INFO - 开始实验 25: min-p值 = [0.2, 0.6, 0.2, 0.8]
+2025-08-03 00:43:34,200 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.6_0.2_0.8.json
+2025-08-03 00:43:34,201 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.6_0.2_0.8.json
+2025-08-03 00:43:34,201 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,202 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,202 - ERROR - 实验 25 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,202 - INFO - 开始实验 26: min-p值 = [0.2, 0.6, 0.2, 0.9]
+2025-08-03 00:43:34,202 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.6_0.2_0.9.json
+2025-08-03 00:43:34,203 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.6_0.2_0.9.json
+2025-08-03 00:43:34,203 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,203 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,203 - ERROR - 实验 26 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,203 - INFO - 开始实验 27: min-p值 = [0.2, 0.6, 0.2, 1.0]
+2025-08-03 00:43:34,203 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.6_0.2_1.0.json
+2025-08-03 00:43:34,209 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.6_0.2_1.0.json
+2025-08-03 00:43:34,209 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,209 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,209 - ERROR - 实验 27 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,210 - INFO - 开始实验 28: min-p值 = [0.2, 0.6, 0.4, 0.8]
+2025-08-03 00:43:34,210 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.6_0.4_0.8.json
+2025-08-03 00:43:34,210 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.6_0.4_0.8.json
+2025-08-03 00:43:34,210 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,211 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,211 - ERROR - 实验 28 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,211 - INFO - 开始实验 29: min-p值 = [0.2, 0.6, 0.4, 0.9]
+2025-08-03 00:43:34,211 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.6_0.4_0.9.json
+2025-08-03 00:43:34,212 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.6_0.4_0.9.json
+2025-08-03 00:43:34,212 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,213 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,213 - ERROR - 实验 29 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,213 - INFO - 开始实验 30: min-p值 = [0.2, 0.6, 0.4, 1.0]
+2025-08-03 00:43:34,213 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.6_0.4_1.0.json
+2025-08-03 00:43:34,214 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.6_0.4_1.0.json
+2025-08-03 00:43:34,214 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,215 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,215 - ERROR - 实验 30 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,215 - INFO - 开始实验 31: min-p值 = [0.2, 0.6, 0.6, 0.8]
+2025-08-03 00:43:34,215 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.6_0.6_0.8.json
+2025-08-03 00:43:34,216 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.6_0.6_0.8.json
+2025-08-03 00:43:34,216 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,217 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,217 - ERROR - 实验 31 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,217 - INFO - 开始实验 32: min-p值 = [0.2, 0.6, 0.6, 0.9]
+2025-08-03 00:43:34,217 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.6_0.6_0.9.json
+2025-08-03 00:43:34,218 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.6_0.6_0.9.json
+2025-08-03 00:43:34,218 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,219 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,219 - ERROR - 实验 32 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,219 - INFO - 开始实验 33: min-p值 = [0.2, 0.6, 0.6, 1.0]
+2025-08-03 00:43:34,219 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.6_0.6_1.0.json
+2025-08-03 00:43:34,220 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.6_0.6_1.0.json
+2025-08-03 00:43:34,220 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,220 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,220 - ERROR - 实验 33 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,220 - INFO - 开始实验 34: min-p值 = [0.2, 0.6, 0.8, 0.8]
+2025-08-03 00:43:34,221 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.6_0.8_0.8.json
+2025-08-03 00:43:34,221 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.6_0.8_0.8.json
+2025-08-03 00:43:34,221 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,222 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,222 - ERROR - 实验 34 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,222 - INFO - 开始实验 35: min-p值 = [0.2, 0.6, 0.8, 0.9]
+2025-08-03 00:43:34,222 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.6_0.8_0.9.json
+2025-08-03 00:43:34,223 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.6_0.8_0.9.json
+2025-08-03 00:43:34,223 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,223 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,223 - ERROR - 实验 35 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,223 - INFO - 开始实验 36: min-p值 = [0.2, 0.6, 0.8, 1.0]
+2025-08-03 00:43:34,223 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.6_0.8_1.0.json
+2025-08-03 00:43:34,224 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.6_0.8_1.0.json
+2025-08-03 00:43:34,224 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,224 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,225 - ERROR - 实验 36 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,225 - INFO - 开始实验 37: min-p值 = [0.2, 0.8, 0.2, 0.8]
+2025-08-03 00:43:34,225 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.8_0.2_0.8.json
+2025-08-03 00:43:34,225 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.8_0.2_0.8.json
+2025-08-03 00:43:34,225 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,226 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,226 - ERROR - 实验 37 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,226 - INFO - 开始实验 38: min-p值 = [0.2, 0.8, 0.2, 0.9]
+2025-08-03 00:43:34,226 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.8_0.2_0.9.json
+2025-08-03 00:43:34,227 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.8_0.2_0.9.json
+2025-08-03 00:43:34,227 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,228 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,228 - ERROR - 实验 38 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,228 - INFO - 开始实验 39: min-p值 = [0.2, 0.8, 0.2, 1.0]
+2025-08-03 00:43:34,228 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.8_0.2_1.0.json
+2025-08-03 00:43:34,229 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.8_0.2_1.0.json
+2025-08-03 00:43:34,229 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,229 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,229 - ERROR - 实验 39 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,229 - INFO - 开始实验 40: min-p值 = [0.2, 0.8, 0.4, 0.8]
+2025-08-03 00:43:34,229 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.8_0.4_0.8.json
+2025-08-03 00:43:34,230 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.8_0.4_0.8.json
+2025-08-03 00:43:34,230 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,231 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,231 - ERROR - 实验 40 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,231 - INFO - 开始实验 41: min-p值 = [0.2, 0.8, 0.4, 0.9]
+2025-08-03 00:43:34,231 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.8_0.4_0.9.json
+2025-08-03 00:43:34,233 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.8_0.4_0.9.json
+2025-08-03 00:43:34,233 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,233 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,234 - ERROR - 实验 41 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,234 - INFO - 开始实验 42: min-p值 = [0.2, 0.8, 0.4, 1.0]
+2025-08-03 00:43:34,234 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.8_0.4_1.0.json
+2025-08-03 00:43:34,235 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.8_0.4_1.0.json
+2025-08-03 00:43:34,235 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,235 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,235 - ERROR - 实验 42 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,235 - INFO - 开始实验 43: min-p值 = [0.2, 0.8, 0.6, 0.8]
+2025-08-03 00:43:34,235 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.8_0.6_0.8.json
+2025-08-03 00:43:34,324 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.8_0.6_0.8.json
+2025-08-03 00:43:34,325 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,325 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,326 - ERROR - 实验 43 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,326 - INFO - 开始实验 44: min-p值 = [0.2, 0.8, 0.6, 0.9]
+2025-08-03 00:43:34,326 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.8_0.6_0.9.json
+2025-08-03 00:43:34,327 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.8_0.6_0.9.json
+2025-08-03 00:43:34,328 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,328 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,328 - ERROR - 实验 44 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,329 - INFO - 开始实验 45: min-p值 = [0.2, 0.8, 0.6, 1.0]
+2025-08-03 00:43:34,329 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.8_0.6_1.0.json
+2025-08-03 00:43:34,330 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.8_0.6_1.0.json
+2025-08-03 00:43:34,330 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,331 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,331 - ERROR - 实验 45 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,331 - INFO - 开始实验 46: min-p值 = [0.2, 0.8, 0.8, 0.8]
+2025-08-03 00:43:34,332 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.8_0.8_0.8.json
+2025-08-03 00:43:34,333 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.8_0.8_0.8.json
+2025-08-03 00:43:34,333 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,333 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,333 - ERROR - 实验 46 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,333 - INFO - 开始实验 47: min-p值 = [0.2, 0.8, 0.8, 0.9]
+2025-08-03 00:43:34,333 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.8_0.8_0.9.json
+2025-08-03 00:43:34,334 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.8_0.8_0.9.json
+2025-08-03 00:43:34,335 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,335 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,335 - ERROR - 实验 47 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,335 - INFO - 开始实验 48: min-p值 = [0.2, 0.8, 0.8, 1.0]
+2025-08-03 00:43:34,335 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.8_0.8_1.0.json
+2025-08-03 00:43:34,336 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.2_0.8_0.8_1.0.json
+2025-08-03 00:43:34,336 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,336 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,336 - ERROR - 实验 48 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,337 - INFO - 开始实验 49: min-p值 = [0.4, 0.2, 0.2, 0.8]
+2025-08-03 00:43:34,337 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.2_0.2_0.8.json
+2025-08-03 00:43:34,337 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.2_0.2_0.8.json
+2025-08-03 00:43:34,337 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,338 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,338 - ERROR - 实验 49 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,338 - INFO - 开始实验 50: min-p值 = [0.4, 0.2, 0.2, 0.9]
+2025-08-03 00:43:34,338 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.2_0.2_0.9.json
+2025-08-03 00:43:34,339 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.2_0.2_0.9.json
+2025-08-03 00:43:34,339 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,340 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,340 - ERROR - 实验 50 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,340 - INFO - 开始实验 51: min-p值 = [0.4, 0.2, 0.2, 1.0]
+2025-08-03 00:43:34,340 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.2_0.2_1.0.json
+2025-08-03 00:43:34,341 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.2_0.2_1.0.json
+2025-08-03 00:43:34,341 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,341 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,341 - ERROR - 实验 51 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,341 - INFO - 开始实验 52: min-p值 = [0.4, 0.2, 0.4, 0.8]
+2025-08-03 00:43:34,342 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.2_0.4_0.8.json
+2025-08-03 00:43:34,342 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.2_0.4_0.8.json
+2025-08-03 00:43:34,342 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,343 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,343 - ERROR - 实验 52 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,343 - INFO - 开始实验 53: min-p值 = [0.4, 0.2, 0.4, 0.9]
+2025-08-03 00:43:34,343 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.2_0.4_0.9.json
+2025-08-03 00:43:34,344 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.2_0.4_0.9.json
+2025-08-03 00:43:34,344 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,344 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,344 - ERROR - 实验 53 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,344 - INFO - 开始实验 54: min-p值 = [0.4, 0.2, 0.4, 1.0]
+2025-08-03 00:43:34,344 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.2_0.4_1.0.json
+2025-08-03 00:43:34,345 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.2_0.4_1.0.json
+2025-08-03 00:43:34,345 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,345 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,345 - ERROR - 实验 54 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,345 - INFO - 开始实验 55: min-p值 = [0.4, 0.2, 0.6, 0.8]
+2025-08-03 00:43:34,346 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.2_0.6_0.8.json
+2025-08-03 00:43:34,346 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.2_0.6_0.8.json
+2025-08-03 00:43:34,346 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,347 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,347 - ERROR - 实验 55 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,347 - INFO - 开始实验 56: min-p值 = [0.4, 0.2, 0.6, 0.9]
+2025-08-03 00:43:34,347 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.2_0.6_0.9.json
+2025-08-03 00:43:34,348 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.2_0.6_0.9.json
+2025-08-03 00:43:34,348 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,348 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,348 - ERROR - 实验 56 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,348 - INFO - 开始实验 57: min-p值 = [0.4, 0.2, 0.6, 1.0]
+2025-08-03 00:43:34,348 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.2_0.6_1.0.json
+2025-08-03 00:43:34,349 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.2_0.6_1.0.json
+2025-08-03 00:43:34,349 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,349 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,350 - ERROR - 实验 57 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,350 - INFO - 开始实验 58: min-p值 = [0.4, 0.2, 0.8, 0.8]
+2025-08-03 00:43:34,350 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.2_0.8_0.8.json
+2025-08-03 00:43:34,350 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.2_0.8_0.8.json
+2025-08-03 00:43:34,350 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,351 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,351 - ERROR - 实验 58 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,351 - INFO - 开始实验 59: min-p值 = [0.4, 0.2, 0.8, 0.9]
+2025-08-03 00:43:34,351 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.2_0.8_0.9.json
+2025-08-03 00:43:34,352 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.2_0.8_0.9.json
+2025-08-03 00:43:34,352 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,352 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,352 - ERROR - 实验 59 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,352 - INFO - 开始实验 60: min-p值 = [0.4, 0.2, 0.8, 1.0]
+2025-08-03 00:43:34,352 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.2_0.8_1.0.json
+2025-08-03 00:43:34,353 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.2_0.8_1.0.json
+2025-08-03 00:43:34,353 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,354 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,354 - ERROR - 实验 60 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,354 - INFO - 开始实验 61: min-p值 = [0.4, 0.4, 0.2, 0.8]
+2025-08-03 00:43:34,354 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.4_0.2_0.8.json
+2025-08-03 00:43:34,354 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.4_0.2_0.8.json
+2025-08-03 00:43:34,355 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,355 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,355 - ERROR - 实验 61 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,355 - INFO - 开始实验 62: min-p值 = [0.4, 0.4, 0.2, 0.9]
+2025-08-03 00:43:34,355 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.4_0.2_0.9.json
+2025-08-03 00:43:34,356 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.4_0.2_0.9.json
+2025-08-03 00:43:34,356 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,356 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,356 - ERROR - 实验 62 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,356 - INFO - 开始实验 63: min-p值 = [0.4, 0.4, 0.2, 1.0]
+2025-08-03 00:43:34,357 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.4_0.2_1.0.json
+2025-08-03 00:43:34,357 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.4_0.2_1.0.json
+2025-08-03 00:43:34,357 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,358 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,358 - ERROR - 实验 63 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,358 - INFO - 开始实验 64: min-p值 = [0.4, 0.4, 0.4, 0.8]
+2025-08-03 00:43:34,358 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.4_0.4_0.8.json
+2025-08-03 00:43:34,359 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.4_0.4_0.8.json
+2025-08-03 00:43:34,359 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,359 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,359 - ERROR - 实验 64 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,359 - INFO - 开始实验 65: min-p值 = [0.4, 0.4, 0.4, 0.9]
+2025-08-03 00:43:34,359 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.4_0.4_0.9.json
+2025-08-03 00:43:34,360 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.4_0.4_0.9.json
+2025-08-03 00:43:34,360 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,360 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,360 - ERROR - 实验 65 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,360 - INFO - 开始实验 66: min-p值 = [0.4, 0.4, 0.4, 1.0]
+2025-08-03 00:43:34,361 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.4_0.4_1.0.json
+2025-08-03 00:43:34,361 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.4_0.4_1.0.json
+2025-08-03 00:43:34,361 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,362 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,362 - ERROR - 实验 66 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,362 - INFO - 开始实验 67: min-p值 = [0.4, 0.4, 0.6, 0.8]
+2025-08-03 00:43:34,362 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.4_0.6_0.8.json
+2025-08-03 00:43:34,363 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.4_0.6_0.8.json
+2025-08-03 00:43:34,363 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,363 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,363 - ERROR - 实验 67 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,363 - INFO - 开始实验 68: min-p值 = [0.4, 0.4, 0.6, 0.9]
+2025-08-03 00:43:34,363 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.4_0.6_0.9.json
+2025-08-03 00:43:34,364 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.4_0.6_0.9.json
+2025-08-03 00:43:34,364 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,364 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,364 - ERROR - 实验 68 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,364 - INFO - 开始实验 69: min-p值 = [0.4, 0.4, 0.6, 1.0]
+2025-08-03 00:43:34,365 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.4_0.6_1.0.json
+2025-08-03 00:43:34,365 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.4_0.6_1.0.json
+2025-08-03 00:43:34,365 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,366 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,366 - ERROR - 实验 69 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,366 - INFO - 开始实验 70: min-p值 = [0.4, 0.4, 0.8, 0.8]
+2025-08-03 00:43:34,366 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.4_0.8_0.8.json
+2025-08-03 00:43:34,367 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.4_0.8_0.8.json
+2025-08-03 00:43:34,367 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,367 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,367 - ERROR - 实验 70 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,367 - INFO - 开始实验 71: min-p值 = [0.4, 0.4, 0.8, 0.9]
+2025-08-03 00:43:34,367 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.4_0.8_0.9.json
+2025-08-03 00:43:34,368 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.4_0.8_0.9.json
+2025-08-03 00:43:34,368 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,368 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,368 - ERROR - 实验 71 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,368 - INFO - 开始实验 72: min-p值 = [0.4, 0.4, 0.8, 1.0]
+2025-08-03 00:43:34,369 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.4_0.8_1.0.json
+2025-08-03 00:43:34,369 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.4_0.8_1.0.json
+2025-08-03 00:43:34,369 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,370 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,370 - ERROR - 实验 72 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,370 - INFO - 开始实验 73: min-p值 = [0.4, 0.6, 0.2, 0.8]
+2025-08-03 00:43:34,370 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.6_0.2_0.8.json
+2025-08-03 00:43:34,371 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.6_0.2_0.8.json
+2025-08-03 00:43:34,371 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,371 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,371 - ERROR - 实验 73 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,371 - INFO - 开始实验 74: min-p值 = [0.4, 0.6, 0.2, 0.9]
+2025-08-03 00:43:34,371 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.6_0.2_0.9.json
+2025-08-03 00:43:34,372 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.6_0.2_0.9.json
+2025-08-03 00:43:34,372 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,372 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,373 - ERROR - 实验 74 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,373 - INFO - 开始实验 75: min-p值 = [0.4, 0.6, 0.2, 1.0]
+2025-08-03 00:43:34,373 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.6_0.2_1.0.json
+2025-08-03 00:43:34,373 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.6_0.2_1.0.json
+2025-08-03 00:43:34,373 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,374 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,374 - ERROR - 实验 75 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,374 - INFO - 开始实验 76: min-p值 = [0.4, 0.6, 0.4, 0.8]
+2025-08-03 00:43:34,374 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.6_0.4_0.8.json
+2025-08-03 00:43:34,375 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.6_0.4_0.8.json
+2025-08-03 00:43:34,375 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,375 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,375 - ERROR - 实验 76 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,375 - INFO - 开始实验 77: min-p值 = [0.4, 0.6, 0.4, 0.9]
+2025-08-03 00:43:34,375 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.6_0.4_0.9.json
+2025-08-03 00:43:34,376 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.6_0.4_0.9.json
+2025-08-03 00:43:34,376 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,376 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,377 - ERROR - 实验 77 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,377 - INFO - 开始实验 78: min-p值 = [0.4, 0.6, 0.4, 1.0]
+2025-08-03 00:43:34,377 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.6_0.4_1.0.json
+2025-08-03 00:43:34,378 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.6_0.4_1.0.json
+2025-08-03 00:43:34,378 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,378 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,378 - ERROR - 实验 78 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,378 - INFO - 开始实验 79: min-p值 = [0.4, 0.6, 0.6, 0.8]
+2025-08-03 00:43:34,378 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.6_0.6_0.8.json
+2025-08-03 00:43:34,379 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.6_0.6_0.8.json
+2025-08-03 00:43:34,379 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,380 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,380 - ERROR - 实验 79 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,380 - INFO - 开始实验 80: min-p值 = [0.4, 0.6, 0.6, 0.9]
+2025-08-03 00:43:34,380 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.6_0.6_0.9.json
+2025-08-03 00:43:34,380 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.6_0.6_0.9.json
+2025-08-03 00:43:34,381 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,381 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,381 - ERROR - 实验 80 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,381 - INFO - 开始实验 81: min-p值 = [0.4, 0.6, 0.6, 1.0]
+2025-08-03 00:43:34,381 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.6_0.6_1.0.json
+2025-08-03 00:43:34,382 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.6_0.6_1.0.json
+2025-08-03 00:43:34,382 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,382 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,382 - ERROR - 实验 81 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,382 - INFO - 开始实验 82: min-p值 = [0.4, 0.6, 0.8, 0.8]
+2025-08-03 00:43:34,383 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.6_0.8_0.8.json
+2025-08-03 00:43:34,383 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.6_0.8_0.8.json
+2025-08-03 00:43:34,383 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,384 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,384 - ERROR - 实验 82 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,384 - INFO - 开始实验 83: min-p值 = [0.4, 0.6, 0.8, 0.9]
+2025-08-03 00:43:34,384 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.6_0.8_0.9.json
+2025-08-03 00:43:34,385 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.6_0.8_0.9.json
+2025-08-03 00:43:34,385 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,385 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,385 - ERROR - 实验 83 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,385 - INFO - 开始实验 84: min-p值 = [0.4, 0.6, 0.8, 1.0]
+2025-08-03 00:43:34,385 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.6_0.8_1.0.json
+2025-08-03 00:43:34,386 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.6_0.8_1.0.json
+2025-08-03 00:43:34,386 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,386 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,386 - ERROR - 实验 84 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,387 - INFO - 开始实验 85: min-p值 = [0.4, 0.8, 0.2, 0.8]
+2025-08-03 00:43:34,387 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.8_0.2_0.8.json
+2025-08-03 00:43:34,387 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.8_0.2_0.8.json
+2025-08-03 00:43:34,387 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,388 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,388 - ERROR - 实验 85 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,388 - INFO - 开始实验 86: min-p值 = [0.4, 0.8, 0.2, 0.9]
+2025-08-03 00:43:34,388 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.8_0.2_0.9.json
+2025-08-03 00:43:34,389 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.8_0.2_0.9.json
+2025-08-03 00:43:34,389 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,389 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,389 - ERROR - 实验 86 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,389 - INFO - 开始实验 87: min-p值 = [0.4, 0.8, 0.2, 1.0]
+2025-08-03 00:43:34,389 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.8_0.2_1.0.json
+2025-08-03 00:43:34,390 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.8_0.2_1.0.json
+2025-08-03 00:43:34,390 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,391 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,391 - ERROR - 实验 87 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,391 - INFO - 开始实验 88: min-p值 = [0.4, 0.8, 0.4, 0.8]
+2025-08-03 00:43:34,391 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.8_0.4_0.8.json
+2025-08-03 00:43:34,392 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.8_0.4_0.8.json
+2025-08-03 00:43:34,392 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,392 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,392 - ERROR - 实验 88 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,392 - INFO - 开始实验 89: min-p值 = [0.4, 0.8, 0.4, 0.9]
+2025-08-03 00:43:34,392 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.8_0.4_0.9.json
+2025-08-03 00:43:34,393 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.8_0.4_0.9.json
+2025-08-03 00:43:34,393 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,393 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,393 - ERROR - 实验 89 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,394 - INFO - 开始实验 90: min-p值 = [0.4, 0.8, 0.4, 1.0]
+2025-08-03 00:43:34,394 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.8_0.4_1.0.json
+2025-08-03 00:43:34,394 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.8_0.4_1.0.json
+2025-08-03 00:43:34,394 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,395 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,395 - ERROR - 实验 90 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,395 - INFO - 开始实验 91: min-p值 = [0.4, 0.8, 0.6, 0.8]
+2025-08-03 00:43:34,395 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.8_0.6_0.8.json
+2025-08-03 00:43:34,396 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.8_0.6_0.8.json
+2025-08-03 00:43:34,396 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,396 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,396 - ERROR - 实验 91 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,396 - INFO - 开始实验 92: min-p值 = [0.4, 0.8, 0.6, 0.9]
+2025-08-03 00:43:34,396 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.8_0.6_0.9.json
+2025-08-03 00:43:34,397 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.8_0.6_0.9.json
+2025-08-03 00:43:34,397 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,397 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,397 - ERROR - 实验 92 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,397 - INFO - 开始实验 93: min-p值 = [0.4, 0.8, 0.6, 1.0]
+2025-08-03 00:43:34,398 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.8_0.6_1.0.json
+2025-08-03 00:43:34,398 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.8_0.6_1.0.json
+2025-08-03 00:43:34,398 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,399 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,399 - ERROR - 实验 93 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,399 - INFO - 开始实验 94: min-p值 = [0.4, 0.8, 0.8, 0.8]
+2025-08-03 00:43:34,399 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.8_0.8_0.8.json
+2025-08-03 00:43:34,400 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.8_0.8_0.8.json
+2025-08-03 00:43:34,400 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,400 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,400 - ERROR - 实验 94 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,400 - INFO - 开始实验 95: min-p值 = [0.4, 0.8, 0.8, 0.9]
+2025-08-03 00:43:34,400 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.8_0.8_0.9.json
+2025-08-03 00:43:34,401 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.8_0.8_0.9.json
+2025-08-03 00:43:34,401 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,401 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,401 - ERROR - 实验 95 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,401 - INFO - 开始实验 96: min-p值 = [0.4, 0.8, 0.8, 1.0]
+2025-08-03 00:43:34,402 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.8_0.8_1.0.json
+2025-08-03 00:43:34,402 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.4_0.8_0.8_1.0.json
+2025-08-03 00:43:34,402 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,403 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,403 - ERROR - 实验 96 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,403 - INFO - 开始实验 97: min-p值 = [0.6, 0.2, 0.2, 0.8]
+2025-08-03 00:43:34,403 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.2_0.2_0.8.json
+2025-08-03 00:43:34,403 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.2_0.2_0.8.json
+2025-08-03 00:43:34,404 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,404 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,404 - ERROR - 实验 97 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,404 - INFO - 开始实验 98: min-p值 = [0.6, 0.2, 0.2, 0.9]
+2025-08-03 00:43:34,404 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.2_0.2_0.9.json
+2025-08-03 00:43:34,405 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.2_0.2_0.9.json
+2025-08-03 00:43:34,405 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,405 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,405 - ERROR - 实验 98 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,405 - INFO - 开始实验 99: min-p值 = [0.6, 0.2, 0.2, 1.0]
+2025-08-03 00:43:34,406 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.2_0.2_1.0.json
+2025-08-03 00:43:34,406 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.2_0.2_1.0.json
+2025-08-03 00:43:34,406 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,407 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,407 - ERROR - 实验 99 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,407 - INFO - 开始实验 100: min-p值 = [0.6, 0.2, 0.4, 0.8]
+2025-08-03 00:43:34,407 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.2_0.4_0.8.json
+2025-08-03 00:43:34,408 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.2_0.4_0.8.json
+2025-08-03 00:43:34,408 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,408 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,408 - ERROR - 实验 100 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,408 - INFO - 开始实验 101: min-p值 = [0.6, 0.2, 0.4, 0.9]
+2025-08-03 00:43:34,408 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.2_0.4_0.9.json
+2025-08-03 00:43:34,409 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.2_0.4_0.9.json
+2025-08-03 00:43:34,409 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,409 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,409 - ERROR - 实验 101 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,409 - INFO - 开始实验 102: min-p值 = [0.6, 0.2, 0.4, 1.0]
+2025-08-03 00:43:34,410 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.2_0.4_1.0.json
+2025-08-03 00:43:34,410 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.2_0.4_1.0.json
+2025-08-03 00:43:34,410 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,411 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,411 - ERROR - 实验 102 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,411 - INFO - 开始实验 103: min-p值 = [0.6, 0.2, 0.6, 0.8]
+2025-08-03 00:43:34,411 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.2_0.6_0.8.json
+2025-08-03 00:43:34,412 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.2_0.6_0.8.json
+2025-08-03 00:43:34,412 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,412 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,412 - ERROR - 实验 103 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,412 - INFO - 开始实验 104: min-p值 = [0.6, 0.2, 0.6, 0.9]
+2025-08-03 00:43:34,412 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.2_0.6_0.9.json
+2025-08-03 00:43:34,413 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.2_0.6_0.9.json
+2025-08-03 00:43:34,413 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,413 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,413 - ERROR - 实验 104 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,413 - INFO - 开始实验 105: min-p值 = [0.6, 0.2, 0.6, 1.0]
+2025-08-03 00:43:34,414 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.2_0.6_1.0.json
+2025-08-03 00:43:34,414 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.2_0.6_1.0.json
+2025-08-03 00:43:34,414 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,415 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,415 - ERROR - 实验 105 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,415 - INFO - 开始实验 106: min-p值 = [0.6, 0.2, 0.8, 0.8]
+2025-08-03 00:43:34,415 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.2_0.8_0.8.json
+2025-08-03 00:43:34,415 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.2_0.8_0.8.json
+2025-08-03 00:43:34,416 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,416 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,416 - ERROR - 实验 106 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,416 - INFO - 开始实验 107: min-p值 = [0.6, 0.2, 0.8, 0.9]
+2025-08-03 00:43:34,416 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.2_0.8_0.9.json
+2025-08-03 00:43:34,417 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.2_0.8_0.9.json
+2025-08-03 00:43:34,417 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,417 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,417 - ERROR - 实验 107 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,417 - INFO - 开始实验 108: min-p值 = [0.6, 0.2, 0.8, 1.0]
+2025-08-03 00:43:34,417 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.2_0.8_1.0.json
+2025-08-03 00:43:34,418 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.2_0.8_1.0.json
+2025-08-03 00:43:34,418 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,419 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,419 - ERROR - 实验 108 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,419 - INFO - 开始实验 109: min-p值 = [0.6, 0.4, 0.2, 0.8]
+2025-08-03 00:43:34,419 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.4_0.2_0.8.json
+2025-08-03 00:43:34,420 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.4_0.2_0.8.json
+2025-08-03 00:43:34,420 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,420 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,420 - ERROR - 实验 109 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,420 - INFO - 开始实验 110: min-p值 = [0.6, 0.4, 0.2, 0.9]
+2025-08-03 00:43:34,420 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.4_0.2_0.9.json
+2025-08-03 00:43:34,421 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.4_0.2_0.9.json
+2025-08-03 00:43:34,421 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,421 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,421 - ERROR - 实验 110 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,421 - INFO - 开始实验 111: min-p值 = [0.6, 0.4, 0.2, 1.0]
+2025-08-03 00:43:34,422 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.4_0.2_1.0.json
+2025-08-03 00:43:34,422 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.4_0.2_1.0.json
+2025-08-03 00:43:34,422 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,423 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,423 - ERROR - 实验 111 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,423 - INFO - 开始实验 112: min-p值 = [0.6, 0.4, 0.4, 0.8]
+2025-08-03 00:43:34,423 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.4_0.4_0.8.json
+2025-08-03 00:43:34,423 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.4_0.4_0.8.json
+2025-08-03 00:43:34,424 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,424 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,424 - ERROR - 实验 112 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,424 - INFO - 开始实验 113: min-p值 = [0.6, 0.4, 0.4, 0.9]
+2025-08-03 00:43:34,424 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.4_0.4_0.9.json
+2025-08-03 00:43:34,425 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.4_0.4_0.9.json
+2025-08-03 00:43:34,425 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,425 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,425 - ERROR - 实验 113 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,425 - INFO - 开始实验 114: min-p值 = [0.6, 0.4, 0.4, 1.0]
+2025-08-03 00:43:34,425 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.4_0.4_1.0.json
+2025-08-03 00:43:34,426 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.4_0.4_1.0.json
+2025-08-03 00:43:34,426 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,426 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,427 - ERROR - 实验 114 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,427 - INFO - 开始实验 115: min-p值 = [0.6, 0.4, 0.6, 0.8]
+2025-08-03 00:43:34,427 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.4_0.6_0.8.json
+2025-08-03 00:43:34,427 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.4_0.6_0.8.json
+2025-08-03 00:43:34,427 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,428 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,428 - ERROR - 实验 115 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,428 - INFO - 开始实验 116: min-p值 = [0.6, 0.4, 0.6, 0.9]
+2025-08-03 00:43:34,428 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.4_0.6_0.9.json
+2025-08-03 00:43:34,429 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.4_0.6_0.9.json
+2025-08-03 00:43:34,429 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,429 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,429 - ERROR - 实验 116 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,429 - INFO - 开始实验 117: min-p值 = [0.6, 0.4, 0.6, 1.0]
+2025-08-03 00:43:34,429 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.4_0.6_1.0.json
+2025-08-03 00:43:34,430 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.4_0.6_1.0.json
+2025-08-03 00:43:34,430 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,430 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,430 - ERROR - 实验 117 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,431 - INFO - 开始实验 118: min-p值 = [0.6, 0.4, 0.8, 0.8]
+2025-08-03 00:43:34,431 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.4_0.8_0.8.json
+2025-08-03 00:43:34,431 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.4_0.8_0.8.json
+2025-08-03 00:43:34,431 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,432 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,432 - ERROR - 实验 118 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,432 - INFO - 开始实验 119: min-p值 = [0.6, 0.4, 0.8, 0.9]
+2025-08-03 00:43:34,432 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.4_0.8_0.9.json
+2025-08-03 00:43:34,433 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.4_0.8_0.9.json
+2025-08-03 00:43:34,433 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,433 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,433 - ERROR - 实验 119 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,433 - INFO - 开始实验 120: min-p值 = [0.6, 0.4, 0.8, 1.0]
+2025-08-03 00:43:34,433 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.4_0.8_1.0.json
+2025-08-03 00:43:34,436 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.4_0.8_1.0.json
+2025-08-03 00:43:34,436 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,437 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,437 - ERROR - 实验 120 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,437 - INFO - 开始实验 121: min-p值 = [0.6, 0.6, 0.2, 0.8]
+2025-08-03 00:43:34,437 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.6_0.2_0.8.json
+2025-08-03 00:43:34,438 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.6_0.2_0.8.json
+2025-08-03 00:43:34,438 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,438 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,438 - ERROR - 实验 121 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,438 - INFO - 开始实验 122: min-p值 = [0.6, 0.6, 0.2, 0.9]
+2025-08-03 00:43:34,438 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.6_0.2_0.9.json
+2025-08-03 00:43:34,439 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.6_0.2_0.9.json
+2025-08-03 00:43:34,439 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,439 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,439 - ERROR - 实验 122 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,440 - INFO - 开始实验 123: min-p值 = [0.6, 0.6, 0.2, 1.0]
+2025-08-03 00:43:34,440 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.6_0.2_1.0.json
+2025-08-03 00:43:34,440 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.6_0.2_1.0.json
+2025-08-03 00:43:34,440 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,441 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,441 - ERROR - 实验 123 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,441 - INFO - 开始实验 124: min-p值 = [0.6, 0.6, 0.4, 0.8]
+2025-08-03 00:43:34,441 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.6_0.4_0.8.json
+2025-08-03 00:43:34,442 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.6_0.4_0.8.json
+2025-08-03 00:43:34,442 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,442 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,442 - ERROR - 实验 124 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,442 - INFO - 开始实验 125: min-p值 = [0.6, 0.6, 0.4, 0.9]
+2025-08-03 00:43:34,443 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.6_0.4_0.9.json
+2025-08-03 00:43:34,444 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.6_0.4_0.9.json
+2025-08-03 00:43:34,444 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,444 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,444 - ERROR - 实验 125 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,444 - INFO - 开始实验 126: min-p值 = [0.6, 0.6, 0.4, 1.0]
+2025-08-03 00:43:34,445 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.6_0.4_1.0.json
+2025-08-03 00:43:34,445 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.6_0.4_1.0.json
+2025-08-03 00:43:34,446 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,446 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,446 - ERROR - 实验 126 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,446 - INFO - 开始实验 127: min-p值 = [0.6, 0.6, 0.6, 0.8]
+2025-08-03 00:43:34,447 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.6_0.6_0.8.json
+2025-08-03 00:43:34,447 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.6_0.6_0.8.json
+2025-08-03 00:43:34,448 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,448 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,448 - ERROR - 实验 127 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,448 - INFO - 开始实验 128: min-p值 = [0.6, 0.6, 0.6, 0.9]
+2025-08-03 00:43:34,449 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.6_0.6_0.9.json
+2025-08-03 00:43:34,449 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.6_0.6_0.9.json
+2025-08-03 00:43:34,450 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,450 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,450 - ERROR - 实验 128 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,450 - INFO - 开始实验 129: min-p值 = [0.6, 0.6, 0.6, 1.0]
+2025-08-03 00:43:34,451 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.6_0.6_1.0.json
+2025-08-03 00:43:34,451 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.6_0.6_1.0.json
+2025-08-03 00:43:34,451 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,452 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,452 - ERROR - 实验 129 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,452 - INFO - 开始实验 130: min-p值 = [0.6, 0.6, 0.8, 0.8]
+2025-08-03 00:43:34,452 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.6_0.8_0.8.json
+2025-08-03 00:43:34,453 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.6_0.8_0.8.json
+2025-08-03 00:43:34,453 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,453 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,453 - ERROR - 实验 130 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,453 - INFO - 开始实验 131: min-p值 = [0.6, 0.6, 0.8, 0.9]
+2025-08-03 00:43:34,453 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.6_0.8_0.9.json
+2025-08-03 00:43:34,454 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.6_0.8_0.9.json
+2025-08-03 00:43:34,454 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,454 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,454 - ERROR - 实验 131 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,454 - INFO - 开始实验 132: min-p值 = [0.6, 0.6, 0.8, 1.0]
+2025-08-03 00:43:34,455 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.6_0.8_1.0.json
+2025-08-03 00:43:34,455 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.6_0.8_1.0.json
+2025-08-03 00:43:34,455 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,456 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,456 - ERROR - 实验 132 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,456 - INFO - 开始实验 133: min-p值 = [0.6, 0.8, 0.2, 0.8]
+2025-08-03 00:43:34,456 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.8_0.2_0.8.json
+2025-08-03 00:43:34,456 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.8_0.2_0.8.json
+2025-08-03 00:43:34,457 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,457 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,457 - ERROR - 实验 133 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,457 - INFO - 开始实验 134: min-p值 = [0.6, 0.8, 0.2, 0.9]
+2025-08-03 00:43:34,457 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.8_0.2_0.9.json
+2025-08-03 00:43:34,458 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.8_0.2_0.9.json
+2025-08-03 00:43:34,458 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,458 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,458 - ERROR - 实验 134 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,458 - INFO - 开始实验 135: min-p值 = [0.6, 0.8, 0.2, 1.0]
+2025-08-03 00:43:34,458 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.8_0.2_1.0.json
+2025-08-03 00:43:34,466 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.8_0.2_1.0.json
+2025-08-03 00:43:34,466 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,467 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,467 - ERROR - 实验 135 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,467 - INFO - 开始实验 136: min-p值 = [0.6, 0.8, 0.4, 0.8]
+2025-08-03 00:43:34,468 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.8_0.4_0.8.json
+2025-08-03 00:43:34,469 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.8_0.4_0.8.json
+2025-08-03 00:43:34,469 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,470 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,470 - ERROR - 实验 136 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,470 - INFO - 开始实验 137: min-p值 = [0.6, 0.8, 0.4, 0.9]
+2025-08-03 00:43:34,470 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.8_0.4_0.9.json
+2025-08-03 00:43:34,471 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.8_0.4_0.9.json
+2025-08-03 00:43:34,472 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,472 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,472 - ERROR - 实验 137 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,473 - INFO - 开始实验 138: min-p值 = [0.6, 0.8, 0.4, 1.0]
+2025-08-03 00:43:34,473 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.8_0.4_1.0.json
+2025-08-03 00:43:34,474 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.8_0.4_1.0.json
+2025-08-03 00:43:34,474 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,475 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,475 - ERROR - 实验 138 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,475 - INFO - 开始实验 139: min-p值 = [0.6, 0.8, 0.6, 0.8]
+2025-08-03 00:43:34,475 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.8_0.6_0.8.json
+2025-08-03 00:43:34,476 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.8_0.6_0.8.json
+2025-08-03 00:43:34,476 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,476 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,476 - ERROR - 实验 139 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,476 - INFO - 开始实验 140: min-p值 = [0.6, 0.8, 0.6, 0.9]
+2025-08-03 00:43:34,476 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.8_0.6_0.9.json
+2025-08-03 00:43:34,478 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.8_0.6_0.9.json
+2025-08-03 00:43:34,478 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,479 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,479 - ERROR - 实验 140 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,479 - INFO - 开始实验 141: min-p值 = [0.6, 0.8, 0.6, 1.0]
+2025-08-03 00:43:34,479 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.8_0.6_1.0.json
+2025-08-03 00:43:34,480 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.8_0.6_1.0.json
+2025-08-03 00:43:34,480 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,480 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,480 - ERROR - 实验 141 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,480 - INFO - 开始实验 142: min-p值 = [0.6, 0.8, 0.8, 0.8]
+2025-08-03 00:43:34,480 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.8_0.8_0.8.json
+2025-08-03 00:43:34,482 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.8_0.8_0.8.json
+2025-08-03 00:43:34,483 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,483 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,483 - ERROR - 实验 142 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,483 - INFO - 开始实验 143: min-p值 = [0.6, 0.8, 0.8, 0.9]
+2025-08-03 00:43:34,483 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.8_0.8_0.9.json
+2025-08-03 00:43:34,485 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.8_0.8_0.9.json
+2025-08-03 00:43:34,485 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,485 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,485 - ERROR - 实验 143 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,486 - INFO - 开始实验 144: min-p值 = [0.6, 0.8, 0.8, 1.0]
+2025-08-03 00:43:34,486 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.8_0.8_1.0.json
+2025-08-03 00:43:34,487 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.6_0.8_0.8_1.0.json
+2025-08-03 00:43:34,487 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,487 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,487 - ERROR - 实验 144 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,488 - INFO - 开始实验 145: min-p值 = [0.8, 0.2, 0.2, 0.8]
+2025-08-03 00:43:34,488 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.2_0.2_0.8.json
+2025-08-03 00:43:34,489 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.2_0.2_0.8.json
+2025-08-03 00:43:34,489 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,489 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,489 - ERROR - 实验 145 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,490 - INFO - 开始实验 146: min-p值 = [0.8, 0.2, 0.2, 0.9]
+2025-08-03 00:43:34,490 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.2_0.2_0.9.json
+2025-08-03 00:43:34,493 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.2_0.2_0.9.json
+2025-08-03 00:43:34,493 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,494 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,494 - ERROR - 实验 146 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,494 - INFO - 开始实验 147: min-p值 = [0.8, 0.2, 0.2, 1.0]
+2025-08-03 00:43:34,495 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.2_0.2_1.0.json
+2025-08-03 00:43:34,495 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.2_0.2_1.0.json
+2025-08-03 00:43:34,496 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,496 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,496 - ERROR - 实验 147 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,496 - INFO - 开始实验 148: min-p值 = [0.8, 0.2, 0.4, 0.8]
+2025-08-03 00:43:34,497 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.2_0.4_0.8.json
+2025-08-03 00:43:34,497 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.2_0.4_0.8.json
+2025-08-03 00:43:34,498 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,498 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,498 - ERROR - 实验 148 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,498 - INFO - 开始实验 149: min-p值 = [0.8, 0.2, 0.4, 0.9]
+2025-08-03 00:43:34,499 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.2_0.4_0.9.json
+2025-08-03 00:43:34,499 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.2_0.4_0.9.json
+2025-08-03 00:43:34,500 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,500 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,500 - ERROR - 实验 149 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,500 - INFO - 开始实验 150: min-p值 = [0.8, 0.2, 0.4, 1.0]
+2025-08-03 00:43:34,501 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.2_0.4_1.0.json
+2025-08-03 00:43:34,502 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.2_0.4_1.0.json
+2025-08-03 00:43:34,502 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,502 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,502 - ERROR - 实验 150 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,502 - INFO - 开始实验 151: min-p值 = [0.8, 0.2, 0.6, 0.8]
+2025-08-03 00:43:34,502 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.2_0.6_0.8.json
+2025-08-03 00:43:34,503 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.2_0.6_0.8.json
+2025-08-03 00:43:34,503 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,503 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,503 - ERROR - 实验 151 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,504 - INFO - 开始实验 152: min-p值 = [0.8, 0.2, 0.6, 0.9]
+2025-08-03 00:43:34,504 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.2_0.6_0.9.json
+2025-08-03 00:43:34,504 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.2_0.6_0.9.json
+2025-08-03 00:43:34,504 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,505 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,505 - ERROR - 实验 152 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,505 - INFO - 开始实验 153: min-p值 = [0.8, 0.2, 0.6, 1.0]
+2025-08-03 00:43:34,505 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.2_0.6_1.0.json
+2025-08-03 00:43:34,506 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.2_0.6_1.0.json
+2025-08-03 00:43:34,506 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,506 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,506 - ERROR - 实验 153 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,506 - INFO - 开始实验 154: min-p值 = [0.8, 0.2, 0.8, 0.8]
+2025-08-03 00:43:34,506 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.2_0.8_0.8.json
+2025-08-03 00:43:34,507 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.2_0.8_0.8.json
+2025-08-03 00:43:34,507 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,508 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,508 - ERROR - 实验 154 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,508 - INFO - 开始实验 155: min-p值 = [0.8, 0.2, 0.8, 0.9]
+2025-08-03 00:43:34,508 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.2_0.8_0.9.json
+2025-08-03 00:43:34,508 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.2_0.8_0.9.json
+2025-08-03 00:43:34,509 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,509 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,509 - ERROR - 实验 155 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,509 - INFO - 开始实验 156: min-p值 = [0.8, 0.2, 0.8, 1.0]
+2025-08-03 00:43:34,509 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.2_0.8_1.0.json
+2025-08-03 00:43:34,510 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.2_0.8_1.0.json
+2025-08-03 00:43:34,510 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,510 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,510 - ERROR - 实验 156 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,510 - INFO - 开始实验 157: min-p值 = [0.8, 0.4, 0.2, 0.8]
+2025-08-03 00:43:34,511 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.4_0.2_0.8.json
+2025-08-03 00:43:34,511 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.4_0.2_0.8.json
+2025-08-03 00:43:34,511 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,511 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,512 - ERROR - 实验 157 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,512 - INFO - 开始实验 158: min-p值 = [0.8, 0.4, 0.2, 0.9]
+2025-08-03 00:43:34,512 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.4_0.2_0.9.json
+2025-08-03 00:43:34,512 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.4_0.2_0.9.json
+2025-08-03 00:43:34,512 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,513 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,513 - ERROR - 实验 158 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,513 - INFO - 开始实验 159: min-p值 = [0.8, 0.4, 0.2, 1.0]
+2025-08-03 00:43:34,513 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.4_0.2_1.0.json
+2025-08-03 00:43:34,514 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.4_0.2_1.0.json
+2025-08-03 00:43:34,514 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,514 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,514 - ERROR - 实验 159 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,514 - INFO - 开始实验 160: min-p值 = [0.8, 0.4, 0.4, 0.8]
+2025-08-03 00:43:34,514 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.4_0.4_0.8.json
+2025-08-03 00:43:34,515 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.4_0.4_0.8.json
+2025-08-03 00:43:34,515 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,516 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,516 - ERROR - 实验 160 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,516 - INFO - 开始实验 161: min-p值 = [0.8, 0.4, 0.4, 0.9]
+2025-08-03 00:43:34,516 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.4_0.4_0.9.json
+2025-08-03 00:43:34,516 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.4_0.4_0.9.json
+2025-08-03 00:43:34,517 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,517 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,517 - ERROR - 实验 161 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,517 - INFO - 开始实验 162: min-p值 = [0.8, 0.4, 0.4, 1.0]
+2025-08-03 00:43:34,517 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.4_0.4_1.0.json
+2025-08-03 00:43:34,518 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.4_0.4_1.0.json
+2025-08-03 00:43:34,518 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,518 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,518 - ERROR - 实验 162 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,518 - INFO - 开始实验 163: min-p值 = [0.8, 0.4, 0.6, 0.8]
+2025-08-03 00:43:34,519 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.4_0.6_0.8.json
+2025-08-03 00:43:34,519 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.4_0.6_0.8.json
+2025-08-03 00:43:34,519 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,520 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,520 - ERROR - 实验 163 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,520 - INFO - 开始实验 164: min-p值 = [0.8, 0.4, 0.6, 0.9]
+2025-08-03 00:43:34,520 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.4_0.6_0.9.json
+2025-08-03 00:43:34,521 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.4_0.6_0.9.json
+2025-08-03 00:43:34,521 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,521 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,521 - ERROR - 实验 164 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,521 - INFO - 开始实验 165: min-p值 = [0.8, 0.4, 0.6, 1.0]
+2025-08-03 00:43:34,521 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.4_0.6_1.0.json
+2025-08-03 00:43:34,522 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.4_0.6_1.0.json
+2025-08-03 00:43:34,522 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,522 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,522 - ERROR - 实验 165 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,522 - INFO - 开始实验 166: min-p值 = [0.8, 0.4, 0.8, 0.8]
+2025-08-03 00:43:34,523 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.4_0.8_0.8.json
+2025-08-03 00:43:34,523 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.4_0.8_0.8.json
+2025-08-03 00:43:34,523 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,524 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,524 - ERROR - 实验 166 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,524 - INFO - 开始实验 167: min-p值 = [0.8, 0.4, 0.8, 0.9]
+2025-08-03 00:43:34,524 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.4_0.8_0.9.json
+2025-08-03 00:43:34,525 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.4_0.8_0.9.json
+2025-08-03 00:43:34,525 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,525 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,525 - ERROR - 实验 167 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,525 - INFO - 开始实验 168: min-p值 = [0.8, 0.4, 0.8, 1.0]
+2025-08-03 00:43:34,525 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.4_0.8_1.0.json
+2025-08-03 00:43:34,528 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.4_0.8_1.0.json
+2025-08-03 00:43:34,529 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,529 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,529 - ERROR - 实验 168 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,529 - INFO - 开始实验 169: min-p值 = [0.8, 0.6, 0.2, 0.8]
+2025-08-03 00:43:34,529 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.6_0.2_0.8.json
+2025-08-03 00:43:34,530 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.6_0.2_0.8.json
+2025-08-03 00:43:34,530 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,530 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,530 - ERROR - 实验 169 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,531 - INFO - 开始实验 170: min-p值 = [0.8, 0.6, 0.2, 0.9]
+2025-08-03 00:43:34,531 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.6_0.2_0.9.json
+2025-08-03 00:43:34,531 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.6_0.2_0.9.json
+2025-08-03 00:43:34,531 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,532 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,532 - ERROR - 实验 170 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,532 - INFO - 开始实验 171: min-p值 = [0.8, 0.6, 0.2, 1.0]
+2025-08-03 00:43:34,532 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.6_0.2_1.0.json
+2025-08-03 00:43:34,533 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.6_0.2_1.0.json
+2025-08-03 00:43:34,533 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,533 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,533 - ERROR - 实验 171 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,533 - INFO - 开始实验 172: min-p值 = [0.8, 0.6, 0.4, 0.8]
+2025-08-03 00:43:34,533 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.6_0.4_0.8.json
+2025-08-03 00:43:34,535 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.6_0.4_0.8.json
+2025-08-03 00:43:34,535 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,535 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,536 - ERROR - 实验 172 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,536 - INFO - 开始实验 173: min-p值 = [0.8, 0.6, 0.4, 0.9]
+2025-08-03 00:43:34,536 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.6_0.4_0.9.json
+2025-08-03 00:43:34,537 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.6_0.4_0.9.json
+2025-08-03 00:43:34,537 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,538 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,538 - ERROR - 实验 173 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,538 - INFO - 开始实验 174: min-p值 = [0.8, 0.6, 0.4, 1.0]
+2025-08-03 00:43:34,538 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.6_0.4_1.0.json
+2025-08-03 00:43:34,539 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.6_0.4_1.0.json
+2025-08-03 00:43:34,539 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,540 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,540 - ERROR - 实验 174 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,540 - INFO - 开始实验 175: min-p值 = [0.8, 0.6, 0.6, 0.8]
+2025-08-03 00:43:34,540 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.6_0.6_0.8.json
+2025-08-03 00:43:34,541 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.6_0.6_0.8.json
+2025-08-03 00:43:34,541 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,542 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,542 - ERROR - 实验 175 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,542 - INFO - 开始实验 176: min-p值 = [0.8, 0.6, 0.6, 0.9]
+2025-08-03 00:43:34,542 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.6_0.6_0.9.json
+2025-08-03 00:43:34,543 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.6_0.6_0.9.json
+2025-08-03 00:43:34,543 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,544 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,544 - ERROR - 实验 176 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,544 - INFO - 开始实验 177: min-p值 = [0.8, 0.6, 0.6, 1.0]
+2025-08-03 00:43:34,544 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.6_0.6_1.0.json
+2025-08-03 00:43:34,545 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.6_0.6_1.0.json
+2025-08-03 00:43:34,545 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,545 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,545 - ERROR - 实验 177 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,545 - INFO - 开始实验 178: min-p值 = [0.8, 0.6, 0.8, 0.8]
+2025-08-03 00:43:34,545 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.6_0.8_0.8.json
+2025-08-03 00:43:34,546 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.6_0.8_0.8.json
+2025-08-03 00:43:34,546 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,546 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,547 - ERROR - 实验 178 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,547 - INFO - 开始实验 179: min-p值 = [0.8, 0.6, 0.8, 0.9]
+2025-08-03 00:43:34,547 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.6_0.8_0.9.json
+2025-08-03 00:43:34,547 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.6_0.8_0.9.json
+2025-08-03 00:43:34,548 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,548 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,548 - ERROR - 实验 179 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,548 - INFO - 开始实验 180: min-p值 = [0.8, 0.6, 0.8, 1.0]
+2025-08-03 00:43:34,548 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.6_0.8_1.0.json
+2025-08-03 00:43:34,549 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.6_0.8_1.0.json
+2025-08-03 00:43:34,549 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,549 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,549 - ERROR - 实验 180 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,549 - INFO - 开始实验 181: min-p值 = [0.8, 0.8, 0.2, 0.8]
+2025-08-03 00:43:34,550 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.8_0.2_0.8.json
+2025-08-03 00:43:34,550 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.8_0.2_0.8.json
+2025-08-03 00:43:34,550 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,551 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,551 - ERROR - 实验 181 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,551 - INFO - 开始实验 182: min-p值 = [0.8, 0.8, 0.2, 0.9]
+2025-08-03 00:43:34,551 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.8_0.2_0.9.json
+2025-08-03 00:43:34,551 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.8_0.2_0.9.json
+2025-08-03 00:43:34,551 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,552 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,552 - ERROR - 实验 182 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,552 - INFO - 开始实验 183: min-p值 = [0.8, 0.8, 0.2, 1.0]
+2025-08-03 00:43:34,552 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.8_0.2_1.0.json
+2025-08-03 00:43:34,553 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.8_0.2_1.0.json
+2025-08-03 00:43:34,553 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,553 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,553 - ERROR - 实验 183 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,553 - INFO - 开始实验 184: min-p值 = [0.8, 0.8, 0.4, 0.8]
+2025-08-03 00:43:34,553 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.8_0.4_0.8.json
+2025-08-03 00:43:34,554 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.8_0.4_0.8.json
+2025-08-03 00:43:34,554 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,554 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,554 - ERROR - 实验 184 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,555 - INFO - 开始实验 185: min-p值 = [0.8, 0.8, 0.4, 0.9]
+2025-08-03 00:43:34,555 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.8_0.4_0.9.json
+2025-08-03 00:43:34,555 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.8_0.4_0.9.json
+2025-08-03 00:43:34,555 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,556 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,556 - ERROR - 实验 185 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,556 - INFO - 开始实验 186: min-p值 = [0.8, 0.8, 0.4, 1.0]
+2025-08-03 00:43:34,556 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.8_0.4_1.0.json
+2025-08-03 00:43:34,557 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.8_0.4_1.0.json
+2025-08-03 00:43:34,557 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,557 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,557 - ERROR - 实验 186 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,557 - INFO - 开始实验 187: min-p值 = [0.8, 0.8, 0.6, 0.8]
+2025-08-03 00:43:34,557 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.8_0.6_0.8.json
+2025-08-03 00:43:34,558 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.8_0.6_0.8.json
+2025-08-03 00:43:34,558 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,558 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,558 - ERROR - 实验 187 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,559 - INFO - 开始实验 188: min-p值 = [0.8, 0.8, 0.6, 0.9]
+2025-08-03 00:43:34,559 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.8_0.6_0.9.json
+2025-08-03 00:43:34,559 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.8_0.6_0.9.json
+2025-08-03 00:43:34,559 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,560 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,560 - ERROR - 实验 188 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,560 - INFO - 开始实验 189: min-p值 = [0.8, 0.8, 0.6, 1.0]
+2025-08-03 00:43:34,560 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.8_0.6_1.0.json
+2025-08-03 00:43:34,561 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.8_0.6_1.0.json
+2025-08-03 00:43:34,561 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,561 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,561 - ERROR - 实验 189 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,561 - INFO - 开始实验 190: min-p值 = [0.8, 0.8, 0.8, 0.8]
+2025-08-03 00:43:34,561 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.8_0.8_0.8.json
+2025-08-03 00:43:34,562 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.8_0.8_0.8.json
+2025-08-03 00:43:34,562 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,562 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,562 - ERROR - 实验 190 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,562 - INFO - 开始实验 191: min-p值 = [0.8, 0.8, 0.8, 0.9]
+2025-08-03 00:43:34,563 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.8_0.8_0.9.json
+2025-08-03 00:43:34,563 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.8_0.8_0.9.json
+2025-08-03 00:43:34,563 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,564 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,564 - ERROR - 实验 191 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,564 - INFO - 开始实验 192: min-p值 = [0.8, 0.8, 0.8, 1.0]
+2025-08-03 00:43:34,564 - INFO - 创建配置文件: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.8_0.8_1.0.json
+2025-08-03 00:43:34,565 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/grid_search_results/config_experiment_0.8_0.8_0.8_1.0.json
+2025-08-03 00:43:34,565 - INFO - 配置文件验证通过
+2025-08-03 00:43:34,565 - INFO - 随机种子已设置为: 42
+2025-08-03 00:43:34,565 - ERROR - 实验 192 失败: [Errno 2] No such file or directory: '/cephfs/shared/sunyifan/Min-p-CoT/cephfs/shared/sunyifan/Min-p-CoT/grid_search_results'
+2025-08-03 00:43:34,565 - ERROR - 没有成功的实验

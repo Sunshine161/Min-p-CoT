@@ -1,0 +1,32 @@
+{
+  "search_config": {
+    "base_config_path": "config.json",
+    "output_dir": "uniform_minp_search_results/",
+    "search_interval": "0.1_interval",
+    "search_type": "uniform_minp"
+  },
+  "search_space": {
+    "uniform_minp_values": [0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
+    "temperature_values": [1.0]
+  },
+  "search_options": {
+    "generate_all_combinations": true,
+    "max_experiments": 50,
+    "save_intermediate_results": true,
+    "continue_on_error": true
+  },
+  "experiment_settings": {
+    "random_seed": 42,
+    "num_runs": 3,
+    "parallel_execution": false,
+    "timeout_per_experiment": 3600,
+    "retry_failed_experiments": true,
+    "max_retries": 2
+  },
+  "result_analysis": {
+    "sort_by": "accuracy",
+    "include_statistics": true,
+    "generate_plots": true,
+    "export_best_config": true
+  }
+}

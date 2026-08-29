@@ -1,0 +1,5 @@
+2025-07-26 16:57:38,373 - INFO - 配置文件加载成功: /cephfs/shared/sunyifan/Min-p-CoT/config.json
+2025-07-26 16:57:38,373 - INFO - 配置文件验证通过
+2025-07-26 16:57:38,405 - INFO - 随机种子已设置为: 42
+2025-07-26 16:57:38,406 - INFO - 加载模型: /cephfs/shared/sunyifan/Model/Llama-3.2-3B-Instruct
+2025-07-26 16:58:22,623 - INFO - 加载数据集: /cephfs/shared/sunyifan/dataset/GSM8k_train.jsonl
